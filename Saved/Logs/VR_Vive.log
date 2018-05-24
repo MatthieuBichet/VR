@@ -3804,3 +3804,1046 @@ MotionControllerPawn_C.ReceiveBeginPlay
 [2018.05.24-13.41.32:917][709]LogSavePackage: Moving '../../../../../../Projet/Leap_Test/VR_Vive/Saved/GameInstance1_Auto3FBCFE4D6401C6A487D9DF4AC3CEFB8C2.tmp' to '../../../../../../Projet/Leap_Test/VR_Vive/Saved/Autosaves/Game/GameInstance1_Auto3.uasset'
 [2018.05.24-13.41.32:918][709]LogSavePackage: Display: Finished SavePackage ../../../../../../Projet/Leap_Test/VR_Vive/Saved/Autosaves/Game/GameInstance1_Auto3.uasset
 [2018.05.24-13.41.32:918][709]LogFileHelpers: Auto-saving content packages took 0.364
+[2018.05.24-13.41.57:933][122]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.05.24-13.41.58:031][123]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.VRVive
+[2018.05.24-13.41.58:031][123]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.05.24-13.41.58:031][123]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.19
+[2018.05.24-13.41.58:031][123]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.05.24-13.41.58:031][123]LogTemp: BranchPath = DESKTOP-TQJUSPE/C/Program Files/Epic Games/UE_4.19/Engine/Binaries --- GameBranchPath = DESKTOP-TQJUSPE/C/Program Files/Epic Games/UE_4.19/Engine/Binaries
+[2018.05.24-13.41.58:032][123]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Admin\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.05.24-13.42.09:906][497]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.05.24-13.43.15:982][438]BlueprintLog: New page: Compile GameInstance1
+[2018.05.24-13.43.16:008][438]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c74f3cbfb0, Size=72
+[2018.05.24-13.47.48:451][638]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Projet/Widgets/MediaPlay" FILE="../../../../../../Projet/Leap_Test/VR_Vive/Content/Projet/Widgets/MediaPlay.uasset" SILENT=true
+[2018.05.24-13.47.48:482][638]LogSavePackage: Save=14.47ms
+[2018.05.24-13.47.48:483][638]LogSavePackage: Moving '../../../../../../Projet/Leap_Test/VR_Vive/Saved/MediaPlay24E669B740142D9328554EA1D43A6902.tmp' to '../../../../../../Projet/Leap_Test/VR_Vive/Content/Projet/Widgets/MediaPlay.uasset'
+[2018.05.24-13.47.48:488][638]LogSavePackage: Display: Finished SavePackage ../../../../../../Projet/Leap_Test/VR_Vive/Content/Projet/Widgets/MediaPlay.uasset
+[2018.05.24-13.48.14:558][837]BlueprintLog: New page: Compile MotionControllerPawn
+[2018.05.24-13.48.14:630][837]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c795c31000, Size=944
+[2018.05.24-13.48.14:631][837]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c812800c00, Size=944, Default__MotionControllerPawn_C Function /Engine/Transient.REINST_MotionControllerPawn_C_358:ExecuteUbergraph_MotionControllerPawn
+[2018.05.24-13.48.14:642][837]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c748957400, Size=944, Default__MotionControllerPawn_C Function /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn_C:ExecuteUbergraph_MotionControllerPawn
+[2018.05.24-13.48.16:950][ 41]LogTemp: Repeating last play command: VR Preview
+[2018.05.24-13.48.17:014][ 41]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/VirtualRealityBP/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/Map1.Map1:PersistentLevel.Map1'
+[2018.05.24-13.48.17:014][ 41]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.24-13.48.17:014][ 41]PIE: New page: PIE session: Map1 (24 mai 2018 17:48:17)
+[2018.05.24-13.48.17:014][ 41]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_Map1
+[2018.05.24-13.48.17:023][ 41]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008160s)
+[2018.05.24-13.48.17:023][ 41]LogAIModule: Creating AISystem for world Map1
+[2018.05.24-13.48.17:024][ 41]LogPlayLevel: PIE: World Init took: (0.000715s)
+[2018.05.24-13.48.17:024][ 41]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/Map1.Map1 to /Game/VirtualRealityBP/Maps/UEDPIE_0_Map1.Map1 (0.009333s)
+[2018.05.24-13.48.17:046][ 41]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c812800c00, Size=944
+[2018.05.24-13.48.17:051][ 41]LogInit: XAudio2 using 'Haut-parleurs (HTC Vive)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.24-13.48.17:057][ 41]LogInit: FAudioDevice initialized.
+[2018.05.24-13.48.17:150][ 41]LogLoad: Game class is 'VR_C'
+[2018.05.24-13.48.17:153][ 41]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_Map1.Map1 up for play (max tick rate 0) at 2018.05.24-15.48.17
+[2018.05.24-13.48.17:153][ 41]LogWorld: Bringing up level for play took: 0.002579
+[2018.05.24-13.48.17:154][ 41]LogScript: Warning: Accessed None trying to read property LeftController
+	Map1_C /Game/VirtualRealityBP/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.Map1_C_65
+	Function /Game/VirtualRealityBP/Maps/Map1.Map1_C:ExecuteUbergraph_Map1:020D
+[2018.05.24-13.48.17:154][ 41]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property LeftController from function: 'ExecuteUbergraph_Map1' from node: Set Lock ? in graph: EventGraph in object: Map1 with description: Accessed None trying to read property LeftController
+[2018.05.24-13.48.17:154][ 41]LogScript: Warning: Accessed None trying to read property RightController
+	Map1_C /Game/VirtualRealityBP/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.Map1_C_65
+	Function /Game/VirtualRealityBP/Maps/Map1.Map1_C:ExecuteUbergraph_Map1:0246
+[2018.05.24-13.48.17:155][ 41]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property RightController from function: 'ExecuteUbergraph_Map1' from node: Set Lock ? in graph: EventGraph in object: Map1 with description: Accessed None trying to read property RightController
+[2018.05.24-13.48.17:155][ 41]LogScript: Warning: Accessed None trying to read property LeftController
+	Map1_C /Game/VirtualRealityBP/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.Map1_C_18
+	Function /Game/VirtualRealityBP/Maps/Map1.Map1_C:ExecuteUbergraph_Map1:020D
+[2018.05.24-13.48.17:155][ 41]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property LeftController from function: 'ExecuteUbergraph_Map1' from node: Set Lock ? in graph: EventGraph in object: Map1 with description: Accessed None trying to read property LeftController
+[2018.05.24-13.48.17:156][ 41]LogScript: Warning: Accessed None trying to read property RightController
+	Map1_C /Game/VirtualRealityBP/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.Map1_C_18
+	Function /Game/VirtualRealityBP/Maps/Map1.Map1_C:ExecuteUbergraph_Map1:0246
+[2018.05.24-13.48.17:156][ 41]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property RightController from function: 'ExecuteUbergraph_Map1' from node: Set Lock ? in graph: EventGraph in object: Map1 with description: Accessed None trying to read property RightController
+[2018.05.24-13.48.17:170][ 41]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_Map1 0,218
+[2018.05.24-13.48.17:170][ 41]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/VirtualRealityBP/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/Map1.Map1:PersistentLevel.Map1'
+[2018.05.24-13.48.30:422][222]LogBlueprintUserMessages: [Map1_C_65] TeleportWorked
+[2018.05.24-13.48.30:423][222]LogBlueprintUserMessages: [Map1_C_18] TeleportWorked
+[2018.05.24-13.48.31:556][325]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2018.05.24-13.48.31:557][325]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2018.05.24-13.48.37:634][813]LogSlate: Slate User Unregistered.  User Index 8
+[2018.05.24-13.48.37:634][813]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2018.05.24-13.48.37:634][813]LogSlate: Slate User Unregistered.  User Index 8
+[2018.05.24-13.48.37:634][813]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 0
+[2018.05.24-13.48.37:635][813]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 0
+[2018.05.24-13.48.37:635][813]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 0
+[2018.05.24-13.48.37:968][843]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2018.05.24-13.48.37:968][843]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2018.05.24-13.48.43:899][374]LogSlate: Slate User Unregistered.  User Index 8
+[2018.05.24-13.48.43:900][374]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2018.05.24-13.48.43:900][374]LogSlate: Slate User Unregistered.  User Index 8
+[2018.05.24-13.48.43:900][374]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 0
+[2018.05.24-13.48.43:900][374]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 0
+[2018.05.24-13.48.43:900][374]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 0
+[2018.05.24-13.48.44:793][454]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2018.05.24-13.48.44:793][454]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2018.05.24-13.48.45:698][535]LogSlate: Slate User Unregistered.  User Index 8
+[2018.05.24-13.48.45:699][535]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2018.05.24-13.48.45:699][535]LogSlate: Slate User Unregistered.  User Index 8
+[2018.05.24-13.48.45:699][535]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 0
+[2018.05.24-13.48.45:699][535]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 0
+[2018.05.24-13.48.45:699][535]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 0
+[2018.05.24-13.48.46:067][568]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2018.05.24-13.48.46:067][568]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2018.05.24-13.48.50:379][954]LogSlate: Slate User Unregistered.  User Index 8
+[2018.05.24-13.48.50:379][954]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2018.05.24-13.48.50:379][954]LogSlate: Slate User Unregistered.  User Index 8
+[2018.05.24-13.48.50:379][954]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 0
+[2018.05.24-13.48.50:379][954]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 0
+[2018.05.24-13.48.50:379][954]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 0
+[2018.05.24-13.48.54:110][288]LogBlueprintUserMessages: [Map1_C_65] TeleportWorked
+[2018.05.24-13.48.54:111][288]LogBlueprintUserMessages: [Map1_C_65] TeleportWorked
+[2018.05.24-13.48.54:111][288]LogBlueprintUserMessages: [Map1_C_65] TeleportWorked
+[2018.05.24-13.48.54:112][288]LogBlueprintUserMessages: [Map1_C_65] TeleportWorked
+[2018.05.24-13.48.54:112][288]LogBlueprintUserMessages: [Map1_C_65] TeleportWorked
+[2018.05.24-13.48.54:113][288]LogBlueprintUserMessages: [Map1_C_65] TeleportWorked
+[2018.05.24-13.48.54:113][288]LogBlueprintUserMessages: [Map1_C_65] TeleportWorked
+[2018.05.24-13.48.54:114][288]LogBlueprintUserMessages: [Map1_C_65] TeleportWorked
+[2018.05.24-13.48.54:114][288]LogBlueprintUserMessages: [Map1_C_65] TeleportWorked
+[2018.05.24-13.48.54:115][288]LogBlueprintUserMessages: [Map1_C_65] TeleportWorked
+[2018.05.24-13.48.54:115][288]LogBlueprintUserMessages: [Map1_C_65] TeleportWorked
+[2018.05.24-13.48.54:115][288]LogBlueprintUserMessages: [Map1_C_65] TeleportWorked
+[2018.05.24-13.48.54:116][288]LogBlueprintUserMessages: [Map1_C_65] TeleportWorked
+[2018.05.24-13.48.54:116][288]LogBlueprintUserMessages: [Map1_C_65] TeleportWorked
+[2018.05.24-13.48.54:117][288]LogBlueprintUserMessages: [Map1_C_65] TeleportWorked
+[2018.05.24-13.48.54:117][288]LogBlueprintUserMessages: [Map1_C_65] TeleportWorked
+[2018.05.24-13.48.54:118][288]LogBlueprintUserMessages: [Map1_C_65] TeleportWorked
+[2018.05.24-13.48.54:118][288]LogBlueprintUserMessages: [Map1_C_65] TeleportWorked
+[2018.05.24-13.48.54:119][288]LogBlueprintUserMessages: [Map1_C_65] TeleportWorked
+[2018.05.24-13.48.54:119][288]LogBlueprintUserMessages: [Map1_C_65] TeleportWorked
+[2018.05.24-13.48.54:120][288]LogBlueprintUserMessages: [Map1_C_65] TeleportWorked
+[2018.05.24-13.48.54:121][288]LogBlueprintUserMessages: [Map1_C_65] TeleportWorked
+[2018.05.24-13.48.54:121][288]LogBlueprintUserMessages: [Map1_C_65] TeleportWorked
+[2018.05.24-13.48.54:122][288]LogBlueprintUserMessages: [Map1_C_65] TeleportWorked
+[2018.05.24-13.48.54:122][288]LogBlueprintUserMessages: [Map1_C_65] TeleportWorked
+[2018.05.24-13.48.54:123][288]LogBlueprintUserMessages: [Map1_C_65] TeleportWorked
+[2018.05.24-13.48.54:123][288]LogBlueprintUserMessages: [Map1_C_65] TeleportWorked
+[2018.05.24-13.48.54:124][288]LogBlueprintUserMessages: [Map1_C_65] TeleportWorked
+[2018.05.24-13.48.54:124][288]LogBlueprintUserMessages: [Map1_C_65] TeleportWorked
+[2018.05.24-13.48.54:125][288]LogBlueprintUserMessages: [Map1_C_65] TeleportWorked
+[2018.05.24-13.48.54:125][288]LogBlueprintUserMessages: [Map1_C_65] TeleportWorked
+[2018.05.24-13.48.54:126][288]LogBlueprintUserMessages: [Map1_C_65] TeleportWorked
+[2018.05.24-13.48.54:126][288]LogBlueprintUserMessages: [Map1_C_65] TeleportWorked
+[2018.05.24-13.48.54:127][288]LogBlueprintUserMessages: [Map1_C_65] TeleportWorked
+[2018.05.24-13.48.54:127][288]LogBlueprintUserMessages: [Map1_C_65] TeleportWorked
+[2018.05.24-13.48.54:128][288]LogBlueprintUserMessages: [Map1_C_65] TeleportWorked
+[2018.05.24-13.48.54:128][288]LogBlueprintUserMessages: [Map1_C_65] TeleportWorked
+[2018.05.24-13.48.54:129][288]LogBlueprintUserMessages: [Map1_C_65] TeleportWorked
+[2018.05.24-13.48.54:129][288]LogBlueprintUserMessages: [Map1_C_65] TeleportWorked
+[2018.05.24-13.48.54:130][288]LogBlueprintUserMessages: [Map1_C_65] TeleportWorked
+[2018.05.24-13.48.54:130][288]LogBlueprintUserMessages: [Map1_C_65] TeleportWorked
+[2018.05.24-13.48.54:131][288]LogBlueprintUserMessages: [Map1_C_65] TeleportWorked
+[2018.05.24-13.48.54:131][288]LogBlueprintUserMessages: [Map1_C_65] TeleportWorked
+[2018.05.24-13.48.54:132][288]LogBlueprintUserMessages: [Map1_C_65] TeleportWorked
+[2018.05.24-13.48.54:132][288]LogBlueprintUserMessages: [Map1_C_65] TeleportWorked
+[2018.05.24-13.48.54:133][288]LogBlueprintUserMessages: [Map1_C_65] TeleportWorked
+[2018.05.24-13.48.54:133][288]LogBlueprintUserMessages: [Map1_C_65] TeleportWorked
+[2018.05.24-13.48.54:134][288]LogBlueprintUserMessages: [Map1_C_65] TeleportWorked
+[2018.05.24-13.48.54:135][288]LogBlueprintUserMessages: [Map1_C_65] TeleportWorked
+[2018.05.24-13.48.54:135][288]LogBlueprintUserMessages: [Map1_C_65] TeleportWorked
+[2018.05.24-13.48.54:136][288]LogBlueprintUserMessages: [Map1_C_65] TeleportWorked
+[2018.05.24-13.48.54:136][288]LogBlueprintUserMessages: [Map1_C_65] TeleportWorked
+[2018.05.24-13.48.54:137][288]LogBlueprintUserMessages: [Map1_C_65] TeleportWorked
+[2018.05.24-13.48.54:137][288]LogBlueprintUserMessages: [Map1_C_65] TeleportWorked
+[2018.05.24-13.48.54:138][288]LogBlueprintUserMessages: [Map1_C_65] TeleportWorked
+[2018.05.24-13.48.54:138][288]LogBlueprintUserMessages: [Map1_C_65] TeleportWorked
+[2018.05.24-13.48.54:139][288]LogBlueprintUserMessages: [Map1_C_65] TeleportWorked
+[2018.05.24-13.48.54:139][288]LogBlueprintUserMessages: [Map1_C_65] TeleportWorked
+[2018.05.24-13.48.54:139][288]LogBlueprintUserMessages: [Map1_C_65] TeleportWorked
+[2018.05.24-13.48.54:140][288]LogBlueprintUserMessages: [Map1_C_65] TeleportWorked
+[2018.05.24-13.48.54:140][288]LogBlueprintUserMessages: [Map1_C_65] TeleportWorked
+[2018.05.24-13.48.54:141][288]LogBlueprintUserMessages: [Map1_C_65] TeleportWorked
+[2018.05.24-13.48.54:141][288]LogScript: Warning: Infinite script recursion (250 calls) detected - see log for stack trace
+	Map1_C /Game/VirtualRealityBP/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.Map1_C_65
+	Function /Game/VirtualRealityBP/Maps/Map1.Map1_C:ExecuteUbergraph_Map1:0000
+[2018.05.24-13.48.54:142][288]PIE: Error: Infinite Loop detected in  Map1 , asserted during  Delay with the following  Call Stack
+[2018.05.24-13.48.54:157][288]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/VirtualRealityBP/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/Map1.Map1:PersistentLevel.Map1'
+[2018.05.24-13.48.54:273][288]LogSlate: Window 'VR_Vive Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.05.24-13.48.54:304][288]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/VirtualRealityBP/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/Map1.Map1:PersistentLevel.Map1'
+[2018.05.24-13.49.18:315][157]LogUObjectGlobals: Warning: Failed to find object 'Object None.'
+[2018.05.24-13.49.18:315][157]LogUObjectGlobals: Warning: Failed to find object 'Object None.'
+[2018.05.24-13.50.12:419][975]LogTemp: Repeating last play command: VR Preview
+[2018.05.24-13.50.12:446][975]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/VirtualRealityBP/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/Map1.Map1:PersistentLevel.Map1'
+[2018.05.24-13.50.12:446][975]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.24-13.50.12:447][975]PIE: New page: PIE session: Map1 (24 mai 2018 17:50:12)
+[2018.05.24-13.50.12:447][975]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_Map1
+[2018.05.24-13.50.12:456][975]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008605s)
+[2018.05.24-13.50.12:456][975]LogAIModule: Creating AISystem for world Map1
+[2018.05.24-13.50.12:456][975]LogPlayLevel: PIE: World Init took: (0.000607s)
+[2018.05.24-13.50.12:456][975]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/Map1.Map1 to /Game/VirtualRealityBP/Maps/UEDPIE_0_Map1.Map1 (0.009631s)
+[2018.05.24-13.50.12:484][975]LogInit: XAudio2 using 'Haut-parleurs (HTC Vive)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.24-13.50.12:490][975]LogInit: FAudioDevice initialized.
+[2018.05.24-13.50.12:583][975]LogLoad: Game class is 'VR_C'
+[2018.05.24-13.50.12:585][975]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_Map1.Map1 up for play (max tick rate 0) at 2018.05.24-15.50.12
+[2018.05.24-13.50.12:586][975]LogWorld: Bringing up level for play took: 0.002416
+[2018.05.24-13.50.12:587][975]LogScript: Warning: Accessed None trying to read property LeftController
+	Map1_C /Game/VirtualRealityBP/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.Map1_C_65
+	Function /Game/VirtualRealityBP/Maps/Map1.Map1_C:ExecuteUbergraph_Map1:020D
+[2018.05.24-13.50.12:587][975]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property LeftController from function: 'ExecuteUbergraph_Map1' from node: Set Lock ? in graph: EventGraph in object: Map1 with description: Accessed None trying to read property LeftController
+[2018.05.24-13.50.12:587][975]LogScript: Warning: Accessed None trying to read property RightController
+	Map1_C /Game/VirtualRealityBP/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.Map1_C_65
+	Function /Game/VirtualRealityBP/Maps/Map1.Map1_C:ExecuteUbergraph_Map1:0246
+[2018.05.24-13.50.12:588][975]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property RightController from function: 'ExecuteUbergraph_Map1' from node: Set Lock ? in graph: EventGraph in object: Map1 with description: Accessed None trying to read property RightController
+[2018.05.24-13.50.12:588][975]LogScript: Warning: Accessed None trying to read property LeftController
+	Map1_C /Game/VirtualRealityBP/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.Map1_C_18
+	Function /Game/VirtualRealityBP/Maps/Map1.Map1_C:ExecuteUbergraph_Map1:020D
+[2018.05.24-13.50.12:588][975]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property LeftController from function: 'ExecuteUbergraph_Map1' from node: Set Lock ? in graph: EventGraph in object: Map1 with description: Accessed None trying to read property LeftController
+[2018.05.24-13.50.12:588][975]LogScript: Warning: Accessed None trying to read property RightController
+	Map1_C /Game/VirtualRealityBP/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.Map1_C_18
+	Function /Game/VirtualRealityBP/Maps/Map1.Map1_C:ExecuteUbergraph_Map1:0246
+[2018.05.24-13.50.12:589][975]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property RightController from function: 'ExecuteUbergraph_Map1' from node: Set Lock ? in graph: EventGraph in object: Map1 with description: Accessed None trying to read property RightController
+[2018.05.24-13.50.12:605][975]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_Map1 -0,347
+[2018.05.24-13.50.12:606][975]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/VirtualRealityBP/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/Map1.Map1:PersistentLevel.Map1'
+[2018.05.24-13.50.19:293][569]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2018.05.24-13.50.19:293][569]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2018.05.24-13.50.19:639][600]LogSlate: Slate User Unregistered.  User Index 8
+[2018.05.24-13.50.19:639][600]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2018.05.24-13.50.19:639][600]LogSlate: Slate User Unregistered.  User Index 8
+[2018.05.24-13.50.19:639][600]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 0
+[2018.05.24-13.50.19:639][600]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 0
+[2018.05.24-13.50.19:639][600]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 0
+[2018.05.24-13.50.20:019][634]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2018.05.24-13.50.20:019][634]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2018.05.24-13.50.20:711][696]LogSlate: Slate User Unregistered.  User Index 8
+[2018.05.24-13.50.20:711][696]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2018.05.24-13.50.20:711][696]LogSlate: Slate User Unregistered.  User Index 8
+[2018.05.24-13.50.20:712][696]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 0
+[2018.05.24-13.50.20:712][696]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 0
+[2018.05.24-13.50.20:712][696]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 0
+[2018.05.24-13.50.22:397][847]LogBlueprintUserMessages: [Map1_C_65] TeleportWorked
+[2018.05.24-13.50.22:399][847]LogBlueprintUserMessages: [Map1_C_18] TeleportWorked
+[2018.05.24-13.50.23:448][941]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2018.05.24-13.50.23:449][941]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2018.05.24-13.50.24:521][ 37]LogSlate: Slate User Unregistered.  User Index 8
+[2018.05.24-13.50.24:521][ 37]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2018.05.24-13.50.24:521][ 37]LogSlate: Slate User Unregistered.  User Index 8
+[2018.05.24-13.50.24:521][ 37]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 0
+[2018.05.24-13.50.24:521][ 37]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 0
+[2018.05.24-13.50.24:521][ 37]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 0
+[2018.05.24-13.50.36:215][ 84]LogBlueprintUserMessages: [Map1_C_65] TeleportWorked
+[2018.05.24-13.50.36:218][ 84]LogBlueprintUserMessages: [Map1_C_18] TeleportWorked
+[2018.05.24-13.50.38:248][266]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2018.05.24-13.50.38:248][266]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2018.05.24-13.50.39:935][417]LogSlate: Slate User Unregistered.  User Index 8
+[2018.05.24-13.50.39:936][417]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2018.05.24-13.50.39:936][417]LogSlate: Slate User Unregistered.  User Index 8
+[2018.05.24-13.50.39:936][417]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 0
+[2018.05.24-13.50.39:936][417]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 0
+[2018.05.24-13.50.39:936][417]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 0
+[2018.05.24-13.50.42:415][639]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2018.05.24-13.50.42:415][639]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2018.05.24-13.50.42:795][673]LogSlate: Slate User Unregistered.  User Index 8
+[2018.05.24-13.50.42:795][673]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2018.05.24-13.50.42:795][673]LogSlate: Slate User Unregistered.  User Index 8
+[2018.05.24-13.50.42:795][673]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 0
+[2018.05.24-13.50.42:795][673]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 0
+[2018.05.24-13.50.42:795][673]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 0
+[2018.05.24-13.50.46:247][982]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/VirtualRealityBP/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/Map1.Map1:PersistentLevel.Map1'
+[2018.05.24-13.50.46:383][982]LogSlate: Window 'VR_Vive Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.05.24-13.50.46:461][982]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/VirtualRealityBP/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/Map1.Map1:PersistentLevel.Map1'
+[2018.05.24-13.51.07:196][976]LogUObjectGlobals: Warning: Failed to find object 'Object None.'
+[2018.05.24-13.51.07:196][976]LogUObjectGlobals: Warning: Failed to find object 'Object None.'
+[2018.05.24-13.51.08:240][ 75]LogUObjectArray: Warning: Other object in slot
+[2018.05.24-13.51.08:240][ 75]LogUObjectArray: Warning: Other object in slot
+[2018.05.24-13.51.08:242][ 75]LogUObjectArray: Warning: Other object in slot
+[2018.05.24-13.51.08:246][ 75]LogUObjectArray: Warning: Other object in slot
+[2018.05.24-13.51.08:252][ 76]LogUObjectArray: Warning: Other object in slot
+[2018.05.24-13.53.25:127][ 81]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c7eb308a80, Size=4, Default__SKEL_BP_MotionController_C Function /Game/VirtualRealityBP/Blueprints/BP_MotionController.SKEL_BP_MotionController_C:ExecuteUbergraph_BP_MotionController
+[2018.05.24-13.53.26:760][212]BlueprintLog: New page: Compile BP_MotionController
+[2018.05.24-13.53.26:809][212]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c7eb308a80, Size=4
+[2018.05.24-13.53.26:809][212]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c70999bd48, Size=4, Default__SKEL_BP_MotionController_C Function /Engine/Transient.REINST_SKEL_BP_MotionController_C_362:ExecuteUbergraph_BP_MotionController
+[2018.05.24-13.53.26:925][212]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c795028400, Size=968
+[2018.05.24-13.53.26:926][212]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c789681400, Size=968, Default__BP_MotionController_C Function /Engine/Transient.REINST_BP_MotionController_C_368:ExecuteUbergraph_BP_MotionController
+[2018.05.24-13.53.26:926][212]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c6f684e3e0, Size=72
+[2018.05.24-13.53.26:926][212]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c74eaa5df0, Size=72, Default__Map1_C Function /Engine/Transient.REINST_Map1_C_369:ExecuteUbergraph_Map1
+[2018.05.24-13.53.26:927][212]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c748957400, Size=944
+[2018.05.24-13.53.26:927][212]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c7a14a3c00, Size=944, Default__MotionControllerPawn_C Function /Engine/Transient.REINST_MotionControllerPawn_C_370:ExecuteUbergraph_MotionControllerPawn
+[2018.05.24-13.53.26:951][212]LogBlueprint: Error: [Compiler MotionControllerPawn] In use pin  Rotation  no longer exists on node  Get Teleport Destination . Please refresh node or break links to remove pin.
+[2018.05.24-13.53.26:960][212]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c75a02d800, Size=968, Default__BP_MotionController_C Function /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:ExecuteUbergraph_BP_MotionController
+[2018.05.24-13.53.26:963][212]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c8156a15d0, Size=72, Default__Map1_C Function /Game/VirtualRealityBP/Maps/Map1.Map1_C:ExecuteUbergraph_Map1
+[2018.05.24-13.53.26:966][212]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c7ebee9000, Size=944, Default__MotionControllerPawn_C Function /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn_C:ExecuteUbergraph_MotionControllerPawn
+[2018.05.24-13.53.26:969][212]LogBlueprint: Warning: [Compiler MotionControllerPawn] [3082,19] Compile of MotionControllerPawn failed. 1 Fatal Issue(s) 0 Warning(s) [in 160 ms] (/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn)
+[2018.05.24-13.53.27:283][212]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c70999bd48, Size=4
+[2018.05.24-13.53.29:654][442]LogTemp: Repeating last play command: VR Preview
+[2018.05.24-13.53.29:682][442]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/VirtualRealityBP/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/Map1.Map1:PersistentLevel.Map1'
+[2018.05.24-13.53.29:683][442]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.24-13.53.33:017][442]LogSlate: Window 'Message' being destroyed
+[2018.05.24-13.53.40:961][265]BlueprintLog: New page: Compile BP_MotionController
+[2018.05.24-13.53.41:062][265]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c75a02d800, Size=968
+[2018.05.24-13.53.41:062][265]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c7d35b6800, Size=968, BP_MotionController_C_228 Function /Engine/Transient.REINST_BP_MotionController_C_380:ExecuteUbergraph_BP_MotionController
+[2018.05.24-13.53.41:080][265]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c75a02dc00, Size=968, Default__BP_MotionController_C Function /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:ExecuteUbergraph_BP_MotionController
+[2018.05.24-13.53.41:312][265]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c789681400, Size=968
+[2018.05.24-13.53.41:313][265]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c74eaa5df0, Size=72
+[2018.05.24-13.53.41:313][265]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c7a14a3c00, Size=944
+[2018.05.24-13.53.49:748][  1]LogTemp: Repeating last play command: VR Preview
+[2018.05.24-13.53.49:775][  1]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/VirtualRealityBP/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/Map1.Map1:PersistentLevel.Map1'
+[2018.05.24-13.53.49:775][  1]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.24-13.53.51:413][  1]LogSlate: Window 'Message' being destroyed
+[2018.05.24-13.54.08:386][485]LogEditorTransaction: Undo Remove Parameter
+[2018.05.24-13.54.08:398][485]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c6d598d990, Size=4, Default__SKEL_BP_MotionController_C Function /Game/VirtualRealityBP/Blueprints/BP_MotionController.SKEL_BP_MotionController_C:ExecuteUbergraph_BP_MotionController
+[2018.05.24-13.54.08:458][485]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c7ddb85f80, Size=4, Default__SKEL_MotionControllerPawn_C Function /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.SKEL_MotionControllerPawn_C:ExecuteUbergraph_MotionControllerPawn
+[2018.05.24-13.54.08:715][488]LogEditorTransaction: Undo Change Text Pin Value
+[2018.05.24-13.54.08:716][488]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c7ddb85f80, Size=4
+[2018.05.24-13.54.08:716][488]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c7eb30b250, Size=4, Default__SKEL_MotionControllerPawn_C Function /Engine/Transient.REINST_SKEL_MotionControllerPawn_C_386:ExecuteUbergraph_MotionControllerPawn
+[2018.05.24-13.54.08:721][488]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c7eb3086e0, Size=4, Default__SKEL_MotionControllerPawn_C Function /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.SKEL_MotionControllerPawn_C:ExecuteUbergraph_MotionControllerPawn
+[2018.05.24-13.56.18:400][178]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c7eb30b250, Size=4
+[2018.05.24-13.56.18:457][178]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c8156a15d0, Size=72
+[2018.05.24-13.56.18:457][178]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c7d27d3470, Size=72, Default__Map1_C Function /Engine/Transient.REINST_Map1_C_390:ExecuteUbergraph_Map1
+[2018.05.24-13.56.18:463][178]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c7d004d210, Size=72, Default__Map1_C Function /Game/VirtualRealityBP/Maps/Map1.Map1_C:ExecuteUbergraph_Map1
+[2018.05.24-13.56.18:645][178]LogSavePackage: Save=224.44ms
+[2018.05.24-13.56.18:645][178]LogSavePackage: Moving '../../../../../../Projet/Leap_Test/VR_Vive/Saved/Map1_Auto48D6431BA4B7BC93563A8649CDC4A9AC6.tmp' to '../../../../../../Projet/Leap_Test/VR_Vive/Saved/Autosaves/Game/VirtualRealityBP/Maps/Map1_Auto4.umap'
+[2018.05.24-13.56.18:646][178]LogSavePackage: Display: Finished SavePackage ../../../../../../Projet/Leap_Test/VR_Vive/Saved/Autosaves/Game/VirtualRealityBP/Maps/Map1_Auto4.umap
+[2018.05.24-13.56.18:648][178]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/Map1' took 0.274
+[2018.05.24-13.56.18:649][178]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.274
+[2018.05.24-13.56.18:650][178]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VirtualRealityBP/Blueprints/MotionControllerPawn] ([1] browsable assets)...
+[2018.05.24-13.56.18:650][178]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/MotionControllerPawn]
+[2018.05.24-13.56.18:746][178]LogSavePackage: Save=80.18ms
+[2018.05.24-13.56.18:746][178]LogSavePackage: Moving '../../../../../../Projet/Leap_Test/VR_Vive/Saved/MotionControllerPawn_Auto4DE5F47EB43F460DBF4F0B79890DD0E19.tmp' to '../../../../../../Projet/Leap_Test/VR_Vive/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/MotionControllerPawn_Auto4.uasset'
+[2018.05.24-13.56.18:748][178]LogSavePackage: Display: Finished SavePackage ../../../../../../Projet/Leap_Test/VR_Vive/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/MotionControllerPawn_Auto4.uasset
+[2018.05.24-13.56.18:748][178]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Projet/Widgets/Media] ([1] browsable assets)...
+[2018.05.24-13.56.18:748][178]OBJ SavePackage: Finished generating thumbnails for package [/Game/Projet/Widgets/Media]
+[2018.05.24-13.56.18:749][178]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Projet/Widgets/Media" FILE="../../../../../../Projet/Leap_Test/VR_Vive/Saved/Autosaves/Game/Projet/Widgets/Media_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2018.05.24-13.56.18:772][178]LogSavePackage: Save=7.38ms
+[2018.05.24-13.56.18:772][178]LogSavePackage: Moving '../../../../../../Projet/Leap_Test/VR_Vive/Saved/Media_Auto4792E765C40622E7212F9D8A41BA065E9.tmp' to '../../../../../../Projet/Leap_Test/VR_Vive/Saved/Autosaves/Game/Projet/Widgets/Media_Auto4.uasset'
+[2018.05.24-13.56.18:773][178]LogSavePackage: Display: Finished SavePackage ../../../../../../Projet/Leap_Test/VR_Vive/Saved/Autosaves/Game/Projet/Widgets/Media_Auto4.uasset
+[2018.05.24-13.56.18:773][178]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VirtualRealityBP/Blueprints/BP_MotionController] ([1] browsable assets)...
+[2018.05.24-13.56.18:784][178]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController]
+[2018.05.24-13.56.18:784][178]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/BP_MotionController]
+[2018.05.24-13.56.18:942][178]LogSavePackage: Save=142.83ms
+[2018.05.24-13.56.18:943][178]LogSavePackage: Moving '../../../../../../Projet/Leap_Test/VR_Vive/Saved/BP_MotionController_Auto48672AEB04F6D003A083F1EBC2B12A013.tmp' to '../../../../../../Projet/Leap_Test/VR_Vive/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/BP_MotionController_Auto4.uasset'
+[2018.05.24-13.56.18:944][178]LogSavePackage: Display: Finished SavePackage ../../../../../../Projet/Leap_Test/VR_Vive/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/BP_MotionController_Auto4.uasset
+[2018.05.24-13.56.18:944][178]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/GameInstance1] ([1] browsable assets)...
+[2018.05.24-13.56.18:944][178]OBJ SavePackage: Finished generating thumbnails for package [/Game/GameInstance1]
+[2018.05.24-13.56.18:946][178]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GameInstance1" FILE="../../../../../../Projet/Leap_Test/VR_Vive/Saved/Autosaves/Game/GameInstance1_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2018.05.24-13.56.18:962][178]LogSavePackage: Save=4.44ms
+[2018.05.24-13.56.18:963][178]LogSavePackage: Moving '../../../../../../Projet/Leap_Test/VR_Vive/Saved/GameInstance1_Auto4BF354FAF46EC0F9D58501282C355E526.tmp' to '../../../../../../Projet/Leap_Test/VR_Vive/Saved/Autosaves/Game/GameInstance1_Auto4.uasset'
+[2018.05.24-13.56.18:963][178]LogSavePackage: Display: Finished SavePackage ../../../../../../Projet/Leap_Test/VR_Vive/Saved/Autosaves/Game/GameInstance1_Auto4.uasset
+[2018.05.24-13.56.18:964][178]LogFileHelpers: Auto-saving content packages took 0.314
+[2018.05.24-13.57.39:019][338]BlueprintLog: New page: Compile MotionControllerPawn
+[2018.05.24-13.57.39:051][338]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c7eb3086e0, Size=4
+[2018.05.24-13.57.39:051][338]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c7dedf2188, Size=4, Default__SKEL_MotionControllerPawn_C Function /Engine/Transient.REINST_SKEL_MotionControllerPawn_C_393:ExecuteUbergraph_MotionControllerPawn
+[2018.05.24-13.57.39:082][338]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c7ebee9000, Size=944
+[2018.05.24-13.57.39:082][338]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c80f15bc00, Size=944, Default__MotionControllerPawn_C Function /Engine/Transient.REINST_MotionControllerPawn_C_396:ExecuteUbergraph_MotionControllerPawn
+[2018.05.24-13.57.39:093][338]LogBlueprint: Error: [Compiler MotionControllerPawn] Pin  Rotation  named Rotation doesn't match any parameters of function GetTeleportDestination
+[2018.05.24-13.57.39:094][338]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c83c7ab000, Size=944, Default__MotionControllerPawn_C Function /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn_C:ExecuteUbergraph_MotionControllerPawn
+[2018.05.24-13.57.39:186][338]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c7d27d3470, Size=72
+[2018.05.24-13.57.39:186][338]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c7dedf2188, Size=4
+[2018.05.24-13.57.39:247][338]LogBlueprint: Warning: [Compiler MotionControllerPawn] [3334,46] Compile of MotionControllerPawn failed. 1 Fatal Issue(s) 0 Warning(s) [in 226 ms] (/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn)
+[2018.05.24-13.57.43:371][697]LogEditorTransaction: Undo Create Pin Link
+[2018.05.24-13.57.44:674][806]LogEditorTransaction: Undo Add Node
+[2018.05.24-13.57.44:681][806]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c82ba4f860, Size=4, Default__SKEL_MotionControllerPawn_C Function /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.SKEL_MotionControllerPawn_C:ExecuteUbergraph_MotionControllerPawn
+[2018.05.24-13.57.45:971][911]BlueprintLog: New page: Compile MotionControllerPawn
+[2018.05.24-13.57.46:001][911]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c82ba4f860, Size=4
+[2018.05.24-13.57.46:002][911]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c7e71a0d60, Size=4, Default__SKEL_MotionControllerPawn_C Function /Engine/Transient.REINST_SKEL_MotionControllerPawn_C_401:ExecuteUbergraph_MotionControllerPawn
+[2018.05.24-13.57.46:033][911]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c83c7ab000, Size=944
+[2018.05.24-13.57.46:034][911]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c81418cc00, Size=944, MotionControllerPawn_C_431 Function /Engine/Transient.REINST_MotionControllerPawn_C_404:ExecuteUbergraph_MotionControllerPawn
+[2018.05.24-13.57.46:045][911]LogBlueprint: Error: [Compiler MotionControllerPawn] Pin  Rotation  named Rotation doesn't match any parameters of function GetTeleportDestination
+[2018.05.24-13.57.46:045][911]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c81418c400, Size=944, Default__MotionControllerPawn_C Function /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn_C:ExecuteUbergraph_MotionControllerPawn
+[2018.05.24-13.57.46:135][911]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c80f15bc00, Size=944
+[2018.05.24-13.57.46:136][911]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c7e71a0d60, Size=4
+[2018.05.24-13.57.46:161][911]LogBlueprint: Warning: [Compiler MotionControllerPawn] [3341,38] Compile of MotionControllerPawn failed. 1 Fatal Issue(s) 0 Warning(s) [in 189 ms] (/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn)
+[2018.05.24-13.57.46:637][947]LogEditorTransaction: Undo Comment Changed
+[2018.05.24-13.57.46:996][977]LogEditorTransaction: Undo Select None
+[2018.05.24-13.57.47:300][  2]LogEditorTransaction: Undo Change Vector Pin Value
+[2018.05.24-13.57.47:305][  2]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c82ba4d260, Size=4, Default__SKEL_MotionControllerPawn_C Function /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.SKEL_MotionControllerPawn_C:ExecuteUbergraph_MotionControllerPawn
+[2018.05.24-13.57.47:944][ 51]BlueprintLog: New page: Compile MotionControllerPawn
+[2018.05.24-13.57.47:977][ 51]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c82ba4d260, Size=4
+[2018.05.24-13.57.47:977][ 51]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c754133d98, Size=4, Default__SKEL_MotionControllerPawn_C Function /Engine/Transient.REINST_SKEL_MotionControllerPawn_C_411:ExecuteUbergraph_MotionControllerPawn
+[2018.05.24-13.57.48:011][ 51]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c81418c400, Size=944
+[2018.05.24-13.57.48:011][ 51]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c75eb7e000, Size=944, Default__MotionControllerPawn_C Function /Engine/Transient.REINST_MotionControllerPawn_C_414:ExecuteUbergraph_MotionControllerPawn
+[2018.05.24-13.57.48:022][ 51]LogBlueprint: Error: [Compiler MotionControllerPawn] Pin  Rotation  named Rotation doesn't match any parameters of function GetTeleportDestination
+[2018.05.24-13.57.48:023][ 51]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c75eb7c800, Size=944, Default__MotionControllerPawn_C Function /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn_C:ExecuteUbergraph_MotionControllerPawn
+[2018.05.24-13.57.48:116][ 51]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c81418cc00, Size=944
+[2018.05.24-13.57.48:116][ 51]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c754133d98, Size=4
+[2018.05.24-13.57.48:140][ 51]LogBlueprint: Warning: [Compiler MotionControllerPawn] [3343,36] Compile of MotionControllerPawn failed. 1 Fatal Issue(s) 0 Warning(s) [in 196 ms] (/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn)
+[2018.05.24-13.57.48:685][ 93]LogEditorTransaction: Undo Change Vector Pin Value
+[2018.05.24-13.57.48:690][ 93]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c7e71a0978, Size=4, Default__SKEL_MotionControllerPawn_C Function /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.SKEL_MotionControllerPawn_C:ExecuteUbergraph_MotionControllerPawn
+[2018.05.24-13.57.48:900][105]LogEditorTransaction: Undo Move Node
+[2018.05.24-13.57.48:902][105]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c82ba4c970, Size=4, Default__SKEL_MediaPlay_C Function /Game/Projet/Widgets/MediaPlay.SKEL_MediaPlay_C:ExecuteUbergraph_MediaPlay
+[2018.05.24-13.57.49:115][122]LogEditorTransaction: Undo Change Text Pin Value
+[2018.05.24-13.57.49:116][122]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c82ba4c970, Size=4
+[2018.05.24-13.57.49:116][122]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c82ba4c970, Size=4, Default__SKEL_MediaPlay_C Function /Engine/Transient.REINST_SKEL_MediaPlay_C_64:ExecuteUbergraph_MediaPlay
+[2018.05.24-13.57.49:117][122]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c82ba4f920, Size=4, Default__SKEL_MediaPlay_C Function /Game/Projet/Widgets/MediaPlay.SKEL_MediaPlay_C:ExecuteUbergraph_MediaPlay
+[2018.05.24-13.57.49:323][139]LogEditorTransaction: Undo Add Node
+[2018.05.24-13.57.49:323][139]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c82ba4f920, Size=4
+[2018.05.24-13.57.49:323][139]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c754133ff8, Size=4, Default__SKEL_MediaPlay_C Function /Engine/Transient.REINST_SKEL_MediaPlay_C_65:ExecuteUbergraph_MediaPlay
+[2018.05.24-13.57.49:324][139]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c754131638, Size=4, Default__SKEL_MediaPlay_C Function /Game/Projet/Widgets/MediaPlay.SKEL_MediaPlay_C:ExecuteUbergraph_MediaPlay
+[2018.05.24-13.57.49:810][180]LogEditorTransaction: Undo Move Node
+[2018.05.24-13.57.49:811][180]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c754131638, Size=4
+[2018.05.24-13.57.49:811][180]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c7988a9860, Size=4, Default__SKEL_MediaPlay_C Function /Engine/Transient.REINST_SKEL_MediaPlay_C_66:ExecuteUbergraph_MediaPlay
+[2018.05.24-13.57.49:813][180]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c7988aa610, Size=4, Default__SKEL_MediaPlay_C Function /Game/Projet/Widgets/MediaPlay.SKEL_MediaPlay_C:ExecuteUbergraph_MediaPlay
+[2018.05.24-13.57.50:372][228]LogEditorTransaction: Undo Move Node
+[2018.05.24-13.57.50:373][228]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c7e71a0978, Size=4
+[2018.05.24-13.57.50:373][228]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c7988a9d10, Size=4, Default__SKEL_MotionControllerPawn_C Function /Engine/Transient.REINST_SKEL_MotionControllerPawn_C_422:ExecuteUbergraph_MotionControllerPawn
+[2018.05.24-13.57.50:378][228]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c7988abb08, Size=4, Default__SKEL_MotionControllerPawn_C Function /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.SKEL_MotionControllerPawn_C:ExecuteUbergraph_MotionControllerPawn
+[2018.05.24-13.57.51:175][289]BlueprintLog: New page: Compile MotionControllerPawn
+[2018.05.24-13.57.51:209][289]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c7988abb08, Size=4
+[2018.05.24-13.57.51:209][289]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c7e71a2330, Size=4, Default__SKEL_MotionControllerPawn_C Function /Engine/Transient.REINST_SKEL_MotionControllerPawn_C_425:ExecuteUbergraph_MotionControllerPawn
+[2018.05.24-13.57.51:243][289]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c75eb7c800, Size=944
+[2018.05.24-13.57.51:243][289]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c813c42c00, Size=944, MotionControllerPawn_C_441 Function /Engine/Transient.REINST_MotionControllerPawn_C_428:ExecuteUbergraph_MotionControllerPawn
+[2018.05.24-13.57.51:254][289]LogBlueprint: Error: [Compiler MotionControllerPawn] Pin  Rotation  named Rotation doesn't match any parameters of function GetTeleportDestination
+[2018.05.24-13.57.51:255][289]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c813c41000, Size=944, Default__MotionControllerPawn_C Function /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn_C:ExecuteUbergraph_MotionControllerPawn
+[2018.05.24-13.57.51:349][289]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c7e71a2330, Size=4
+[2018.05.24-13.57.51:349][289]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c75eb7e000, Size=944
+[2018.05.24-13.57.51:349][289]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c7988a9860, Size=4
+[2018.05.24-13.57.51:349][289]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c754133ff8, Size=4
+[2018.05.24-13.57.51:350][289]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c82ba4c970, Size=4
+[2018.05.24-13.57.51:350][289]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c7988a9d10, Size=4
+[2018.05.24-13.57.51:377][289]LogBlueprint: Warning: [Compiler MotionControllerPawn] [3346,60] Compile of MotionControllerPawn failed. 1 Fatal Issue(s) 0 Warning(s) [in 201 ms] (/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn)
+[2018.05.24-13.58.02:662][231]BlueprintLog: New page: Compile BP_MotionController
+[2018.05.24-13.58.02:712][231]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c6d598d990, Size=4
+[2018.05.24-13.58.02:712][231]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c7eb3da800, Size=4, Default__SKEL_BP_MotionController_C Function /Engine/Transient.REINST_SKEL_BP_MotionController_C_430:ExecuteUbergraph_BP_MotionController
+[2018.05.24-13.58.02:857][231]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c75a02dc00, Size=968
+[2018.05.24-13.58.02:858][231]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c7441bdc00, Size=968, Default__BP_MotionController_C Function /Engine/Transient.REINST_BP_MotionController_C_436:ExecuteUbergraph_BP_MotionController
+[2018.05.24-13.58.02:858][231]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c7d004d210, Size=72
+[2018.05.24-13.58.02:858][231]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c74f33ffb0, Size=72, Default__Map1_C Function /Engine/Transient.REINST_Map1_C_437:ExecuteUbergraph_Map1
+[2018.05.24-13.58.02:859][231]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c813c41000, Size=944
+[2018.05.24-13.58.02:859][231]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c75a02c800, Size=944, Default__MotionControllerPawn_C Function /Engine/Transient.REINST_MotionControllerPawn_C_438:ExecuteUbergraph_MotionControllerPawn
+[2018.05.24-13.58.02:891][231]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c83294a400, Size=968, Default__BP_MotionController_C Function /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:ExecuteUbergraph_BP_MotionController
+[2018.05.24-13.58.02:895][231]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c828c8e520, Size=72, Default__Map1_C Function /Game/VirtualRealityBP/Maps/Map1.Map1_C:ExecuteUbergraph_Map1
+[2018.05.24-13.58.02:899][231]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c83294b400, Size=944, Default__MotionControllerPawn_C Function /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn_C:ExecuteUbergraph_MotionControllerPawn
+[2018.05.24-13.58.03:138][231]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c813c42c00, Size=944
+[2018.05.24-13.58.03:139][231]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c7eb3da800, Size=4
+[2018.05.24-13.58.09:727][779]BlueprintLog: New page: Compile MediaPlay
+[2018.05.24-13.58.09:730][779]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c7988aa610, Size=4
+[2018.05.24-13.58.09:731][779]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c7dbb97df0, Size=4, Default__SKEL_MediaPlay_C Function /Engine/Transient.REINST_SKEL_MediaPlay_C_67:ExecuteUbergraph_MediaPlay
+[2018.05.24-13.58.09:734][779]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c73f686ca0, Size=40
+[2018.05.24-13.58.09:734][779]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c7a6386f48, Size=40, MediaPlay_C_248 Function /Engine/Transient.REINST_MediaPlay_C_68:ExecuteUbergraph_MediaPlay
+[2018.05.24-13.58.09:736][779]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c713253a00, Size=32, Default__MediaPlay_C Function /Game/Projet/Widgets/MediaPlay.MediaPlay_C:ExecuteUbergraph_MediaPlay
+[2018.05.24-13.58.09:826][779]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c75a02c800, Size=944
+[2018.05.24-13.58.09:826][779]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c7441bdc00, Size=968
+[2018.05.24-13.58.09:826][779]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c7dbb97df0, Size=4
+[2018.05.24-13.58.36:902][136]BlueprintLog: New page: Compile MotionControllerPawn
+[2018.05.24-13.58.36:966][136]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c83294b400, Size=944
+[2018.05.24-13.58.36:966][136]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c80a902400, Size=944, Default__MotionControllerPawn_C Function /Engine/Transient.REINST_MotionControllerPawn_C_448:ExecuteUbergraph_MotionControllerPawn
+[2018.05.24-13.58.36:978][136]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c832949c00, Size=944, Default__MotionControllerPawn_C Function /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn_C:ExecuteUbergraph_MotionControllerPawn
+[2018.05.24-13.58.37:198][136]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c7a6386f48, Size=40
+[2018.05.24-13.58.37:198][136]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c7d35b6800, Size=968
+[2018.05.24-13.58.37:199][136]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c74f33ffb0, Size=72
+[2018.05.24-13.58.58:004][971]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c7a4a152f0, Size=4, Default__SKEL_MotionControllerPawn_C Function /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.SKEL_MotionControllerPawn_C:ExecuteUbergraph_MotionControllerPawn
+[2018.05.24-13.58.58:046][971]BlueprintLog: New page: Collapse to Function
+[2018.05.24-13.58.58:047][971]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c7a4a152f0, Size=4
+[2018.05.24-13.58.58:047][971]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c754131748, Size=4, Default__SKEL_MotionControllerPawn_C Function /Engine/Transient.REINST_SKEL_MotionControllerPawn_C_452:ExecuteUbergraph_MotionControllerPawn
+[2018.05.24-13.58.58:052][971]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c754131950, Size=4, Default__SKEL_MotionControllerPawn_C Function /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.SKEL_MotionControllerPawn_C:ExecuteUbergraph_MotionControllerPawn
+[2018.05.24-13.58.58:061][971]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c754131950, Size=4
+[2018.05.24-13.58.58:061][971]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c754131950, Size=4, Default__SKEL_MotionControllerPawn_C Function /Engine/Transient.REINST_SKEL_MotionControllerPawn_C_454:ExecuteUbergraph_MotionControllerPawn
+[2018.05.24-13.58.58:067][971]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c82ba4e7f8, Size=4, Default__SKEL_MotionControllerPawn_C Function /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.SKEL_MotionControllerPawn_C:ExecuteUbergraph_MotionControllerPawn
+[2018.05.24-13.58.58:077][971]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c82ba4e7f8, Size=4
+[2018.05.24-13.58.58:077][971]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c82ba4e7f8, Size=4, Default__SKEL_MotionControllerPawn_C Function /Engine/Transient.REINST_SKEL_MotionControllerPawn_C_456:ExecuteUbergraph_MotionControllerPawn
+[2018.05.24-13.58.58:082][971]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c82ba4cfa8, Size=4, Default__SKEL_MotionControllerPawn_C Function /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.SKEL_MotionControllerPawn_C:ExecuteUbergraph_MotionControllerPawn
+[2018.05.24-13.58.58:090][971]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c82ba4cfa8, Size=4
+[2018.05.24-13.58.58:091][971]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c82ba4cfa8, Size=4, Default__SKEL_MotionControllerPawn_C Function /Engine/Transient.REINST_SKEL_MotionControllerPawn_C_458:ExecuteUbergraph_MotionControllerPawn
+[2018.05.24-13.58.58:095][971]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c82ba4d700, Size=4, Default__SKEL_MotionControllerPawn_C Function /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.SKEL_MotionControllerPawn_C:ExecuteUbergraph_MotionControllerPawn
+[2018.05.24-13.59.00:175][151]LogEditorTransaction: Undo Collapses selected nodes into a single node
+[2018.05.24-13.59.00:181][151]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c82ba4d700, Size=4
+[2018.05.24-13.59.00:181][151]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c7ddb878e0, Size=4, Default__SKEL_MotionControllerPawn_C Function /Engine/Transient.REINST_SKEL_MotionControllerPawn_C_460:ExecuteUbergraph_MotionControllerPawn
+[2018.05.24-13.59.00:186][151]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c7ddb85030, Size=4, Default__SKEL_MotionControllerPawn_C Function /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.SKEL_MotionControllerPawn_C:ExecuteUbergraph_MotionControllerPawn
+[2018.05.24-14.03.48:898][230]BlueprintLog: New page: Compile MotionControllerPawn
+[2018.05.24-14.03.48:930][230]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c7ddb85030, Size=4
+[2018.05.24-14.03.48:930][230]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c7dbb96518, Size=4, Default__SKEL_MotionControllerPawn_C Function /Engine/Transient.REINST_SKEL_MotionControllerPawn_C_463:ExecuteUbergraph_MotionControllerPawn
+[2018.05.24-14.03.48:962][230]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c832949c00, Size=944
+[2018.05.24-14.03.48:962][230]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c7d391d400, Size=944, MotionControllerPawn_C_519 Function /Engine/Transient.REINST_MotionControllerPawn_C_466:ExecuteUbergraph_MotionControllerPawn
+[2018.05.24-14.03.48:973][230]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c83294b000, Size=944, Default__MotionControllerPawn_C Function /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn_C:ExecuteUbergraph_MotionControllerPawn
+[2018.05.24-14.03.49:214][230]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c80a902400, Size=944
+[2018.05.24-14.03.49:214][230]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c7dbb96518, Size=4
+[2018.05.24-14.03.49:215][230]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c7ddb878e0, Size=4
+[2018.05.24-14.03.49:215][230]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c82ba4cfa8, Size=4
+[2018.05.24-14.03.49:215][230]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c82ba4e7f8, Size=4
+[2018.05.24-14.03.49:215][230]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c754131950, Size=4
+[2018.05.24-14.03.49:215][230]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c754131748, Size=4
+[2018.05.24-14.03.51:012][413]LogTemp: Repeating last play command: VR Preview
+[2018.05.24-14.03.51:054][413]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/VirtualRealityBP/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/Map1.Map1:PersistentLevel.Map1'
+[2018.05.24-14.03.51:055][413]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.05.24-14.03.51:056][413]LogPlayLevel: [PlayLevel] Compiling Media before play...
+[2018.05.24-14.03.51:209][413]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c7d391d400, Size=944
+[2018.05.24-14.03.51:210][413]LogPlayLevel: PlayLevel: Blueprint regeneration took 156 ms (1 blueprints)
+[2018.05.24-14.03.51:210][413]PIE: New page: PIE session: Map1 (24 mai 2018 18:03:51)
+[2018.05.24-14.03.51:211][413]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_Map1
+[2018.05.24-14.03.51:220][413]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008780s)
+[2018.05.24-14.03.51:220][413]LogAIModule: Creating AISystem for world Map1
+[2018.05.24-14.03.51:220][413]LogPlayLevel: PIE: World Init took: (0.000616s)
+[2018.05.24-14.03.51:220][413]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/Map1.Map1 to /Game/VirtualRealityBP/Maps/UEDPIE_0_Map1.Map1 (0.009773s)
+[2018.05.24-14.03.51:247][413]LogInit: XAudio2 using 'Haut-parleurs (HTC Vive)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.24-14.03.51:253][413]LogInit: FAudioDevice initialized.
+[2018.05.24-14.03.51:335][413]LogLoad: Game class is 'VR_C'
+[2018.05.24-14.03.51:337][413]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_Map1.Map1 up for play (max tick rate 0) at 2018.05.24-16.03.51
+[2018.05.24-14.03.51:338][413]LogWorld: Bringing up level for play took: 0.002491
+[2018.05.24-14.03.51:339][413]LogScript: Warning: Accessed None trying to read property LeftController
+	Map1_C /Game/VirtualRealityBP/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.Map1_C_65
+	Function /Game/VirtualRealityBP/Maps/Map1.Map1_C:ExecuteUbergraph_Map1:020D
+[2018.05.24-14.03.51:339][413]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property LeftController from function: 'ExecuteUbergraph_Map1' from node: Set Lock ? in graph: EventGraph in object: Map1 with description: Accessed None trying to read property LeftController
+[2018.05.24-14.03.51:339][413]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property RightController from function: 'ExecuteUbergraph_Map1' from node: Set Lock ? in graph: EventGraph in object: Map1 with description: Accessed None trying to read property RightController
+[2018.05.24-14.03.51:340][413]LogScript: Warning: Accessed None trying to read property LeftController
+	Map1_C /Game/VirtualRealityBP/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.Map1_C_19
+	Function /Game/VirtualRealityBP/Maps/Map1.Map1_C:ExecuteUbergraph_Map1:020D
+[2018.05.24-14.03.51:340][413]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property LeftController from function: 'ExecuteUbergraph_Map1' from node: Set Lock ? in graph: EventGraph in object: Map1 with description: Accessed None trying to read property LeftController
+[2018.05.24-14.03.51:340][413]LogScript: Warning: Accessed None trying to read property RightController
+	Map1_C /Game/VirtualRealityBP/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.Map1_C_19
+	Function /Game/VirtualRealityBP/Maps/Map1.Map1_C:ExecuteUbergraph_Map1:0246
+[2018.05.24-14.03.51:341][413]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property RightController from function: 'ExecuteUbergraph_Map1' from node: Set Lock ? in graph: EventGraph in object: Map1 with description: Accessed None trying to read property RightController
+[2018.05.24-14.03.51:355][413]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_Map1 0,403
+[2018.05.24-14.03.51:355][413]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/VirtualRealityBP/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/Map1.Map1:PersistentLevel.Map1'
+[2018.05.24-14.04.04:590][596]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2018.05.24-14.04.04:590][596]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2018.05.24-14.04.07:070][818]LogSlate: Slate User Unregistered.  User Index 8
+[2018.05.24-14.04.07:070][818]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2018.05.24-14.04.07:070][818]LogSlate: Slate User Unregistered.  User Index 8
+[2018.05.24-14.04.07:070][818]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 0
+[2018.05.24-14.04.07:070][818]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 0
+[2018.05.24-14.04.07:070][818]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 0
+[2018.05.24-14.04.13:871][427]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2018.05.24-14.04.13:872][427]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2018.05.24-14.04.14:665][498]LogSlate: Slate User Unregistered.  User Index 8
+[2018.05.24-14.04.14:666][498]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2018.05.24-14.04.14:666][498]LogSlate: Slate User Unregistered.  User Index 8
+[2018.05.24-14.04.14:666][498]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 0
+[2018.05.24-14.04.14:666][498]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 0
+[2018.05.24-14.04.14:666][498]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 0
+[2018.05.24-14.04.51:905][783]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/VirtualRealityBP/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/Map1.Map1:PersistentLevel.Map1'
+[2018.05.24-14.04.52:032][783]LogSlate: Window 'VR_Vive Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.05.24-14.04.52:070][783]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/VirtualRealityBP/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/Map1.Map1:PersistentLevel.Map1'
+[2018.05.24-14.05.14:163][699]LogEditorTransaction: Undo Move Node
+[2018.05.24-14.05.14:168][699]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c70999b790, Size=4, Default__SKEL_MotionControllerPawn_C Function /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.SKEL_MotionControllerPawn_C:ExecuteUbergraph_MotionControllerPawn
+[2018.05.24-14.05.14:651][730]LogEditorTransaction: Undo Create Pin Link
+[2018.05.24-14.05.14:652][730]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c70999b790, Size=4
+[2018.05.24-14.05.14:652][730]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c823a69ab8, Size=4, Default__SKEL_MotionControllerPawn_C Function /Engine/Transient.REINST_SKEL_MotionControllerPawn_C_474:ExecuteUbergraph_MotionControllerPawn
+[2018.05.24-14.05.14:658][730]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c823a6bec0, Size=4, Default__SKEL_MotionControllerPawn_C Function /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.SKEL_MotionControllerPawn_C:ExecuteUbergraph_MotionControllerPawn
+[2018.05.24-14.05.15:191][769]LogEditorTransaction: Undo Break Pin Link
+[2018.05.24-14.05.15:192][769]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c823a6bec0, Size=4
+[2018.05.24-14.05.15:192][769]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c8119e8720, Size=4, Default__SKEL_MotionControllerPawn_C Function /Engine/Transient.REINST_SKEL_MotionControllerPawn_C_476:ExecuteUbergraph_MotionControllerPawn
+[2018.05.24-14.05.15:198][769]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c8119e9c40, Size=4, Default__SKEL_MotionControllerPawn_C Function /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.SKEL_MotionControllerPawn_C:ExecuteUbergraph_MotionControllerPawn
+[2018.05.24-14.05.17:211][925]BlueprintLog: New page: Compile MotionControllerPawn
+[2018.05.24-14.05.17:243][925]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c8119e9c40, Size=4
+[2018.05.24-14.05.17:243][925]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c7d0018660, Size=4, Default__SKEL_MotionControllerPawn_C Function /Engine/Transient.REINST_SKEL_MotionControllerPawn_C_479:ExecuteUbergraph_MotionControllerPawn
+[2018.05.24-14.05.17:277][925]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c83294b000, Size=944
+[2018.05.24-14.05.17:277][925]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c828d5f000, Size=944, Default__MotionControllerPawn_C Function /Engine/Transient.REINST_MotionControllerPawn_C_482:ExecuteUbergraph_MotionControllerPawn
+[2018.05.24-14.05.17:289][925]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c82ae6cc00, Size=944, Default__MotionControllerPawn_C Function /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn_C:ExecuteUbergraph_MotionControllerPawn
+[2018.05.24-14.05.17:512][925]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c7d0018660, Size=4
+[2018.05.24-14.05.17:512][925]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c8119e8720, Size=4
+[2018.05.24-14.05.17:512][925]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c823a69ab8, Size=4
+[2018.05.24-14.05.52:153][971]BlueprintLog: New page: Compile MotionControllerPawn
+[2018.05.24-14.05.52:216][971]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c82ae6cc00, Size=944
+[2018.05.24-14.05.52:217][971]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c813c15800, Size=944, MotionControllerPawn_C_569 Function /Engine/Transient.REINST_MotionControllerPawn_C_488:ExecuteUbergraph_MotionControllerPawn
+[2018.05.24-14.05.52:227][971]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c813c17000, Size=944, Default__MotionControllerPawn_C Function /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn_C:ExecuteUbergraph_MotionControllerPawn
+[2018.05.24-14.05.52:451][971]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c828d5f000, Size=944
+[2018.05.24-14.05.55:122][233]LogTemp: Repeating last play command: VR Preview
+[2018.05.24-14.05.55:163][233]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/VirtualRealityBP/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/Map1.Map1:PersistentLevel.Map1'
+[2018.05.24-14.05.55:164][233]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.24-14.05.55:164][233]PIE: New page: PIE session: Map1 (24 mai 2018 18:05:55)
+[2018.05.24-14.05.55:164][233]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_Map1
+[2018.05.24-14.05.55:173][233]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008144s)
+[2018.05.24-14.05.55:173][233]LogAIModule: Creating AISystem for world Map1
+[2018.05.24-14.05.55:173][233]LogPlayLevel: PIE: World Init took: (0.000719s)
+[2018.05.24-14.05.55:173][233]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/Map1.Map1 to /Game/VirtualRealityBP/Maps/UEDPIE_0_Map1.Map1 (0.009257s)
+[2018.05.24-14.05.55:194][233]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c813c15800, Size=944
+[2018.05.24-14.05.55:200][233]LogInit: XAudio2 using 'Haut-parleurs (HTC Vive)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.24-14.05.55:206][233]LogInit: FAudioDevice initialized.
+[2018.05.24-14.05.55:295][233]LogLoad: Game class is 'VR_C'
+[2018.05.24-14.05.55:297][233]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_Map1.Map1 up for play (max tick rate 0) at 2018.05.24-16.05.55
+[2018.05.24-14.05.55:298][233]LogWorld: Bringing up level for play took: 0.002501
+[2018.05.24-14.05.55:299][233]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property LeftController from function: 'ExecuteUbergraph_Map1' from node: Set Lock ? in graph: EventGraph in object: Map1 with description: Accessed None trying to read property LeftController
+[2018.05.24-14.05.55:299][233]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property RightController from function: 'ExecuteUbergraph_Map1' from node: Set Lock ? in graph: EventGraph in object: Map1 with description: Accessed None trying to read property RightController
+[2018.05.24-14.05.55:299][233]LogScript: Warning: Accessed None trying to read property LeftController
+	Map1_C /Game/VirtualRealityBP/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.Map1_C_19
+	Function /Game/VirtualRealityBP/Maps/Map1.Map1_C:ExecuteUbergraph_Map1:020D
+[2018.05.24-14.05.55:300][233]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property LeftController from function: 'ExecuteUbergraph_Map1' from node: Set Lock ? in graph: EventGraph in object: Map1 with description: Accessed None trying to read property LeftController
+[2018.05.24-14.05.55:300][233]LogScript: Warning: Accessed None trying to read property RightController
+	Map1_C /Game/VirtualRealityBP/Maps/UEDPIE_0_Map1.Map1:PersistentLevel.Map1_C_19
+	Function /Game/VirtualRealityBP/Maps/Map1.Map1_C:ExecuteUbergraph_Map1:0246
+[2018.05.24-14.05.55:300][233]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property RightController from function: 'ExecuteUbergraph_Map1' from node: Set Lock ? in graph: EventGraph in object: Map1 with description: Accessed None trying to read property RightController
+[2018.05.24-14.05.55:315][233]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_Map1 0,364
+[2018.05.24-14.05.55:316][233]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/VirtualRealityBP/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/Map1.Map1:PersistentLevel.Map1'
+[2018.05.24-14.06.25:243][855]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/VirtualRealityBP/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/Map1.Map1:PersistentLevel.Map1'
+[2018.05.24-14.06.25:385][855]LogSlate: Window 'VR_Vive Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.05.24-14.06.25:422][855]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/VirtualRealityBP/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/Map1.Map1:PersistentLevel.Map1'
+[2018.05.24-14.06.28:377][137]LogSlate: Window 'Project Settings' being destroyed
+[2018.05.24-14.06.28:386][137]LogSlate: Window 'Project Settings' being destroyed
+[2018.05.24-14.07.42:175][248]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.24-14.07.52:908][255]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c8253ea440, Size=4, Default__SKEL_MotionControllerPawn_C Function /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.SKEL_MotionControllerPawn_C:ExecuteUbergraph_MotionControllerPawn
+[2018.05.24-14.07.59:006][747]LogEditorTransaction: Undo Move Node
+[2018.05.24-14.07.59:007][747]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c8253ea440, Size=4
+[2018.05.24-14.07.59:007][747]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c7fc3dc690, Size=4, Default__SKEL_MotionControllerPawn_C Function /Engine/Transient.REINST_SKEL_MotionControllerPawn_C_492:ExecuteUbergraph_MotionControllerPawn
+[2018.05.24-14.07.59:012][747]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c7fc3dce00, Size=4, Default__SKEL_MotionControllerPawn_C Function /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.SKEL_MotionControllerPawn_C:ExecuteUbergraph_MotionControllerPawn
+[2018.05.24-14.07.59:558][785]LogEditorTransaction: Undo Rename Node
+[2018.05.24-14.07.59:559][785]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c7fc3dce00, Size=4
+[2018.05.24-14.07.59:559][785]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c6c4cf8938, Size=4, Default__SKEL_MotionControllerPawn_C Function /Engine/Transient.REINST_SKEL_MotionControllerPawn_C_494:ExecuteUbergraph_MotionControllerPawn
+[2018.05.24-14.07.59:564][785]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c6c4cf8ca8, Size=4, Default__SKEL_MotionControllerPawn_C Function /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.SKEL_MotionControllerPawn_C:ExecuteUbergraph_MotionControllerPawn
+[2018.05.24-14.08.00:254][842]LogEditorTransaction: Undo Add Node
+[2018.05.24-14.08.00:260][842]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c6c4cf8ca8, Size=4
+[2018.05.24-14.08.00:260][842]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c7eb3d8eb8, Size=4, Default__SKEL_MotionControllerPawn_C Function /Engine/Transient.REINST_SKEL_MotionControllerPawn_C_496:ExecuteUbergraph_MotionControllerPawn
+[2018.05.24-14.08.00:265][842]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c7eb3db1a0, Size=4, Default__SKEL_MotionControllerPawn_C Function /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.SKEL_MotionControllerPawn_C:ExecuteUbergraph_MotionControllerPawn
+[2018.05.24-14.08.07:621][497]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c7eb3db1a0, Size=4
+[2018.05.24-14.08.07:622][497]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c8253ea7c0, Size=4, Default__SKEL_MotionControllerPawn_C Function /Engine/Transient.REINST_SKEL_MotionControllerPawn_C_498:ExecuteUbergraph_MotionControllerPawn
+[2018.05.24-14.08.07:627][497]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c8253e8a20, Size=4, Default__SKEL_MotionControllerPawn_C Function /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.SKEL_MotionControllerPawn_C:ExecuteUbergraph_MotionControllerPawn
+[2018.05.24-14.08.31:732][660]LogSavePackage: Save=80.71ms
+[2018.05.24-14.08.31:732][660]LogSavePackage: Moving '../../../../../../Projet/Leap_Test/VR_Vive/Saved/MotionControllerPawnE0BF5656493F6907BB118094BFD90D8F.tmp' to '../../../../../../Projet/Leap_Test/VR_Vive/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2018.05.24-14.08.31:737][660]LogSavePackage: Display: Finished SavePackage ../../../../../../Projet/Leap_Test/VR_Vive/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset
+[2018.05.24-14.09.00:738][277]LogSavePackage: Save=83.01ms
+[2018.05.24-14.09.00:738][277]LogSavePackage: Moving '../../../../../../Projet/Leap_Test/VR_Vive/Saved/MotionControllerPawnE17D327D4B7DF7989C4F828F1B4C6A78.tmp' to '../../../../../../Projet/Leap_Test/VR_Vive/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2018.05.24-14.09.00:740][277]LogSavePackage: Display: Finished SavePackage ../../../../../../Projet/Leap_Test/VR_Vive/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset
+[2018.05.24-14.09.23:287][256]LogSavePackage: Save=83.86ms
+[2018.05.24-14.09.23:287][256]LogSavePackage: Moving '../../../../../../Projet/Leap_Test/VR_Vive/Saved/MotionControllerPawn653DF0CF40E0E86682772A89D89AD80F.tmp' to '../../../../../../Projet/Leap_Test/VR_Vive/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2018.05.24-14.09.23:289][256]LogSavePackage: Display: Finished SavePackage ../../../../../../Projet/Leap_Test/VR_Vive/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset
+[2018.05.24-14.09.24:172][332]BlueprintLog: New page: Compile MotionControllerPawn
+[2018.05.24-14.09.24:202][332]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c8253e8a20, Size=4
+[2018.05.24-14.09.24:202][332]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c814d50700, Size=4, Default__SKEL_MotionControllerPawn_C Function /Engine/Transient.REINST_SKEL_MotionControllerPawn_C_501:ExecuteUbergraph_MotionControllerPawn
+[2018.05.24-14.09.24:235][332]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c813c17000, Size=944
+[2018.05.24-14.09.24:235][332]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c823986800, Size=944, Default__MotionControllerPawn_C Function /Engine/Transient.REINST_MotionControllerPawn_C_504:ExecuteUbergraph_MotionControllerPawn
+[2018.05.24-14.09.24:247][332]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c813c17c00, Size=944, Default__MotionControllerPawn_C Function /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn_C:ExecuteUbergraph_MotionControllerPawn
+[2018.05.24-14.09.24:481][332]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c814d50700, Size=4
+[2018.05.24-14.09.24:482][332]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c8253ea7c0, Size=4
+[2018.05.24-14.09.24:482][332]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c7eb3d8eb8, Size=4
+[2018.05.24-14.09.24:482][332]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c6c4cf8938, Size=4
+[2018.05.24-14.09.24:482][332]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c7fc3dc690, Size=4
+[2018.05.24-14.09.49:440][479]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c823986800, Size=944
+[2018.05.24-14.09.49:494][479]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c828c8e520, Size=72
+[2018.05.24-14.09.49:494][479]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c7d3be4e00, Size=72, Default__Map1_C Function /Engine/Transient.REINST_Map1_C_508:ExecuteUbergraph_Map1
+[2018.05.24-14.09.49:500][479]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c6eb82ff10, Size=72, Default__Map1_C Function /Game/VirtualRealityBP/Maps/Map1.Map1_C:ExecuteUbergraph_Map1
+[2018.05.24-14.09.49:691][479]LogSavePackage: Save=231.95ms
+[2018.05.24-14.09.49:691][479]LogSavePackage: Moving '../../../../../../Projet/Leap_Test/VR_Vive/Saved/Map1_Auto502F5B2D74C6D98D7E975F793D853EF9D.tmp' to '../../../../../../Projet/Leap_Test/VR_Vive/Saved/Autosaves/Game/VirtualRealityBP/Maps/Map1_Auto5.umap'
+[2018.05.24-14.09.49:692][479]LogSavePackage: Display: Finished SavePackage ../../../../../../Projet/Leap_Test/VR_Vive/Saved/Autosaves/Game/VirtualRealityBP/Maps/Map1_Auto5.umap
+[2018.05.24-14.09.49:694][479]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/Map1' took 0.276
+[2018.05.24-14.09.49:694][479]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.276
+[2018.05.24-14.09.49:696][479]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Projet/Widgets/Media] ([1] browsable assets)...
+[2018.05.24-14.09.49:696][479]OBJ SavePackage: Finished generating thumbnails for package [/Game/Projet/Widgets/Media]
+[2018.05.24-14.09.49:696][479]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Projet/Widgets/Media" FILE="../../../../../../Projet/Leap_Test/VR_Vive/Saved/Autosaves/Game/Projet/Widgets/Media_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2018.05.24-14.09.49:721][479]LogSavePackage: Save=7.95ms
+[2018.05.24-14.09.49:721][479]LogSavePackage: Moving '../../../../../../Projet/Leap_Test/VR_Vive/Saved/Media_Auto5DE057DDB4B4C22FA7E4C9FB929DC2750.tmp' to '../../../../../../Projet/Leap_Test/VR_Vive/Saved/Autosaves/Game/Projet/Widgets/Media_Auto5.uasset'
+[2018.05.24-14.09.49:722][479]LogSavePackage: Display: Finished SavePackage ../../../../../../Projet/Leap_Test/VR_Vive/Saved/Autosaves/Game/Projet/Widgets/Media_Auto5.uasset
+[2018.05.24-14.09.49:723][479]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VirtualRealityBP/Blueprints/BP_MotionController] ([1] browsable assets)...
+[2018.05.24-14.09.49:737][479]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController]
+[2018.05.24-14.09.49:737][479]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/BP_MotionController]
+[2018.05.24-14.09.49:903][479]LogSavePackage: Save=150.67ms
+[2018.05.24-14.09.49:903][479]LogSavePackage: Moving '../../../../../../Projet/Leap_Test/VR_Vive/Saved/BP_MotionController_Auto5E57309104E2ADF6ED3E33C862B41622E.tmp' to '../../../../../../Projet/Leap_Test/VR_Vive/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/BP_MotionController_Auto5.uasset'
+[2018.05.24-14.09.49:904][479]LogSavePackage: Display: Finished SavePackage ../../../../../../Projet/Leap_Test/VR_Vive/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/BP_MotionController_Auto5.uasset
+[2018.05.24-14.09.49:905][479]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Projet/Widgets/MediaPlay] ([1] browsable assets)...
+[2018.05.24-14.09.49:905][479]OBJ SavePackage: Finished generating thumbnails for package [/Game/Projet/Widgets/MediaPlay]
+[2018.05.24-14.09.49:905][479]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Projet/Widgets/MediaPlay" FILE="../../../../../../Projet/Leap_Test/VR_Vive/Saved/Autosaves/Game/Projet/Widgets/MediaPlay_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2018.05.24-14.09.49:936][479]LogSavePackage: Save=14.94ms
+[2018.05.24-14.09.49:936][479]LogSavePackage: Moving '../../../../../../Projet/Leap_Test/VR_Vive/Saved/MediaPlay_Auto53A3D84AA4EC38C7EF181D3A2C583D99D.tmp' to '../../../../../../Projet/Leap_Test/VR_Vive/Saved/Autosaves/Game/Projet/Widgets/MediaPlay_Auto5.uasset'
+[2018.05.24-14.09.49:937][479]LogSavePackage: Display: Finished SavePackage ../../../../../../Projet/Leap_Test/VR_Vive/Saved/Autosaves/Game/Projet/Widgets/MediaPlay_Auto5.uasset
+[2018.05.24-14.09.49:937][479]LogFileHelpers: Auto-saving content packages took 0.242
+[2018.05.24-14.10.58:345][ 55]LogSavePackage: Save=82.96ms
+[2018.05.24-14.10.58:346][ 55]LogSavePackage: Moving '../../../../../../Projet/Leap_Test/VR_Vive/Saved/MotionControllerPawn926D336046AB0E1B057ED498F77A1F71.tmp' to '../../../../../../Projet/Leap_Test/VR_Vive/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2018.05.24-14.10.58:348][ 55]LogSavePackage: Display: Finished SavePackage ../../../../../../Projet/Leap_Test/VR_Vive/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset
+[2018.05.24-14.14.49:035][168]LogSlate: Window 'Message Log' being destroyed
+[2018.05.24-14.14.49:037][168]LogSlate: Window 'Message Log' being destroyed
+[2018.05.24-14.14.49:702][170]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.24-14.14.59:678][364]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Maps/Map1" FILE="../../../../../../Projet/Leap_Test/VR_Vive/Content/VirtualRealityBP/Maps/Map1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.24-14.14.59:705][364]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c7d3be4e00, Size=72
+[2018.05.24-14.14.59:755][364]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c6eb82ff10, Size=72
+[2018.05.24-14.14.59:755][364]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c83b9aa610, Size=72, Default__Map1_C Function /Engine/Transient.REINST_Map1_C_512:ExecuteUbergraph_Map1
+[2018.05.24-14.14.59:761][364]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c6eb82d440, Size=72, Default__Map1_C Function /Game/VirtualRealityBP/Maps/Map1.Map1_C:ExecuteUbergraph_Map1
+[2018.05.24-14.14.59:945][364]LogSavePackage: Save=223.92ms
+[2018.05.24-14.14.59:945][364]LogSavePackage: Moving '../../../../../../Projet/Leap_Test/VR_Vive/Saved/Map17DA18C9A42B75551FD1E0AB9456EF334.tmp' to '../../../../../../Projet/Leap_Test/VR_Vive/Content/VirtualRealityBP/Maps/Map1.umap'
+[2018.05.24-14.14.59:950][364]LogSavePackage: Display: Finished SavePackage ../../../../../../Projet/Leap_Test/VR_Vive/Content/VirtualRealityBP/Maps/Map1.umap
+[2018.05.24-14.14.59:982][364]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Maps/Map1_BuiltData" FILE="../../../../../../Projet/Leap_Test/VR_Vive/Content/VirtualRealityBP/Maps/Map1_BuiltData.uasset" SILENT=true
+[2018.05.24-14.15.00:048][364]LogSavePackage: Save=49.34ms
+[2018.05.24-14.15.00:048][364]LogSavePackage: Moving '../../../../../../Projet/Leap_Test/VR_Vive/Saved/Map1_BuiltData7A9CEF7A481DCE8EB4EA5F97627A5BB7.tmp' to '../../../../../../Projet/Leap_Test/VR_Vive/Content/VirtualRealityBP/Maps/Map1_BuiltData.uasset'
+[2018.05.24-14.15.00:054][364]LogSavePackage: Display: Finished SavePackage ../../../../../../Projet/Leap_Test/VR_Vive/Content/VirtualRealityBP/Maps/Map1_BuiltData.uasset
+[2018.05.24-14.15.50:860][  6]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.24-14.17.31:670][668]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Screen)
+[2018.05.24-14.17.35:190][ 10]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.24-14.17.45:431][107]LogMetaData: Removing '/Game/Projet/GameInstance1.GameInstance1_C' ref from Metadata '/Game/GameInstance1.PackageMetaData'
+[2018.05.24-14.17.45:431][107]LogMetaData: Removing '/Game/Projet/GameInstance1.SKEL_GameInstance1_C' ref from Metadata '/Game/GameInstance1.PackageMetaData'
+[2018.05.24-14.17.45:431][107]LogMetaData: Removing '/Game/Projet/GameInstance1.GameInstance1_C:back' ref from Metadata '/Game/GameInstance1.PackageMetaData'
+[2018.05.24-14.17.45:431][107]LogMetaData: Removing '/Game/Projet/GameInstance1.SKEL_GameInstance1_C:back' ref from Metadata '/Game/GameInstance1.PackageMetaData'
+[2018.05.24-14.17.45:448][107]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Projet/GameInstance1" FILE="../../../../../../Projet/Leap_Test/VR_Vive/Content/Projet/GameInstance1.uasset" SILENT=true
+[2018.05.24-14.17.45:454][107]LogSavePackage: Save=4.74ms
+[2018.05.24-14.17.45:454][107]LogSavePackage: Moving '../../../../../../Projet/Leap_Test/VR_Vive/Saved/GameInstance1CD6B0E494C43A0AED5C9409DF5479236.tmp' to '../../../../../../Projet/Leap_Test/VR_Vive/Content/Projet/GameInstance1.uasset'
+[2018.05.24-14.17.45:459][107]LogSavePackage: Display: Finished SavePackage ../../../../../../Projet/Leap_Test/VR_Vive/Content/Projet/GameInstance1.uasset
+[2018.05.24-14.17.45:546][107]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c83b9aa610, Size=72
+[2018.05.24-14.17.45:601][107]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Projet/Widgets/MediaPlay" FILE="../../../../../../Projet/Leap_Test/VR_Vive/Content/Projet/Widgets/MediaPlay.uasset" SILENT=true
+[2018.05.24-14.17.45:633][107]LogSavePackage: Save=13.86ms
+[2018.05.24-14.17.45:633][107]LogSavePackage: Moving '../../../../../../Projet/Leap_Test/VR_Vive/Saved/MediaPlayEB08407A41B6566FD894DF892E785B4B.tmp' to '../../../../../../Projet/Leap_Test/VR_Vive/Content/Projet/Widgets/MediaPlay.uasset'
+[2018.05.24-14.17.45:637][107]LogSavePackage: Display: Finished SavePackage ../../../../../../Projet/Leap_Test/VR_Vive/Content/Projet/Widgets/MediaPlay.uasset
+[2018.05.24-14.17.45:739][107]LogSavePackage: Save=80.88ms
+[2018.05.24-14.17.45:739][107]LogSavePackage: Moving '../../../../../../Projet/Leap_Test/VR_Vive/Saved/MotionControllerPawnAB550E57497991561FDFBF93DF91171A.tmp' to '../../../../../../Projet/Leap_Test/VR_Vive/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2018.05.24-14.17.45:741][107]LogSavePackage: Display: Finished SavePackage ../../../../../../Projet/Leap_Test/VR_Vive/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset
+[2018.05.24-14.24.59:518][737]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/Map1' took 0.025
+[2018.05.24-14.24.59:520][737]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Projet/Widgets/Media] ([1] browsable assets)...
+[2018.05.24-14.24.59:521][737]OBJ SavePackage: Finished generating thumbnails for package [/Game/Projet/Widgets/Media]
+[2018.05.24-14.24.59:521][737]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Projet/Widgets/Media" FILE="../../../../../../Projet/Leap_Test/VR_Vive/Saved/Autosaves/Game/Projet/Widgets/Media_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2018.05.24-14.24.59:545][737]LogSavePackage: Save=7.83ms
+[2018.05.24-14.24.59:545][737]LogSavePackage: Moving '../../../../../../Projet/Leap_Test/VR_Vive/Saved/Media_Auto6DAE8AD284BF18D1925458083AEB2E531.tmp' to '../../../../../../Projet/Leap_Test/VR_Vive/Saved/Autosaves/Game/Projet/Widgets/Media_Auto6.uasset'
+[2018.05.24-14.24.59:546][737]LogSavePackage: Display: Finished SavePackage ../../../../../../Projet/Leap_Test/VR_Vive/Saved/Autosaves/Game/Projet/Widgets/Media_Auto6.uasset
+[2018.05.24-14.24.59:547][737]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VirtualRealityBP/Blueprints/BP_MotionController] ([1] browsable assets)...
+[2018.05.24-14.24.59:558][737]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController]
+[2018.05.24-14.24.59:558][737]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/BP_MotionController]
+[2018.05.24-14.24.59:715][737]LogSavePackage: Save=141.37ms
+[2018.05.24-14.24.59:715][737]LogSavePackage: Moving '../../../../../../Projet/Leap_Test/VR_Vive/Saved/BP_MotionController_Auto65C6AF46241B672A3C449759D5F5C2C99.tmp' to '../../../../../../Projet/Leap_Test/VR_Vive/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/BP_MotionController_Auto6.uasset'
+[2018.05.24-14.24.59:716][737]LogSavePackage: Display: Finished SavePackage ../../../../../../Projet/Leap_Test/VR_Vive/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/BP_MotionController_Auto6.uasset
+[2018.05.24-14.24.59:716][737]LogFileHelpers: Auto-saving content packages took 0.197
+[2018.05.24-14.29.41:614][236]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.24-14.31.09:901][705]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.24-14.31.30:529][570]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.24-14.35.44:370][280]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.24-14.36.15:598][468]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2018.05.24-14.36.16:606][582]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2018.05.24-14.36.41:494][196]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylindre_vide)
+[2018.05.24-14.37.10:449][228]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.24-14.37.24:086][677]Cmd: DELETE
+[2018.05.24-14.37.24:086][677]Cmd: ACTOR DELETE
+[2018.05.24-14.37.24:091][677]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.05.24-14.37.24:116][677]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2018.05.24-14.37.28:929][107]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.24-14.37.29:020][116]BlueprintLog: New page: Compile BP_MotionController
+[2018.05.24-14.37.29:133][116]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c83294a400, Size=968
+[2018.05.24-14.37.29:133][116]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c7976a9400, Size=968, Default__BP_MotionController_C Function /Engine/Transient.REINST_BP_MotionController_C_520:ExecuteUbergraph_BP_MotionController
+[2018.05.24-14.37.29:152][116]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c73fd47400, Size=968, Default__BP_MotionController_C Function /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:ExecuteUbergraph_BP_MotionController
+[2018.05.24-14.37.32:539][353]BlueprintLog: New page: Compile MediaPlay
+[2018.05.24-14.37.32:545][353]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c713253a00, Size=32
+[2018.05.24-14.37.32:545][353]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c8251979a0, Size=32, MediaPlay_C_274 Function /Engine/Transient.REINST_MediaPlay_C_70:ExecuteUbergraph_MediaPlay
+[2018.05.24-14.37.32:547][353]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c825196fc0, Size=32, Default__MediaPlay_C Function /Game/Projet/Widgets/MediaPlay.MediaPlay_C:ExecuteUbergraph_MediaPlay
+[2018.05.24-14.37.32:632][353]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c7976a9400, Size=968
+[2018.05.24-14.37.35:119][610]LogSlate: Window 'GameInstance1' being destroyed
+[2018.05.24-14.37.35:122][610]LogSlate: Window 'GameInstance1' being destroyed
+[2018.05.24-14.37.35:301][610]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.05.24-14.37.35:378][610]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.05.24-14.37.41:034][271]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c8251979a0, Size=32
+[2018.05.24-14.37.42:320][271]LogSlate: Window 'Save Content' being destroyed
+[2018.05.24-14.37.42:331][271]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Projet/Widgets/Media" FILE="../../../../../../Projet/Leap_Test/VR_Vive/Content/Projet/Widgets/Media.uasset" SILENT=true
+[2018.05.24-14.37.42:355][271]LogSavePackage: Save=7.34ms
+[2018.05.24-14.37.42:356][271]LogSavePackage: Moving '../../../../../../Projet/Leap_Test/VR_Vive/Saved/Media61BA3ED44BAD9728905234A111483E10.tmp' to '../../../../../../Projet/Leap_Test/VR_Vive/Content/Projet/Widgets/Media.uasset'
+[2018.05.24-14.37.42:360][271]LogSavePackage: Display: Finished SavePackage ../../../../../../Projet/Leap_Test/VR_Vive/Content/Projet/Widgets/Media.uasset
+[2018.05.24-14.37.42:539][271]LogSavePackage: Save=143.77ms
+[2018.05.24-14.37.42:539][271]LogSavePackage: Moving '../../../../../../Projet/Leap_Test/VR_Vive/Saved/BP_MotionController2AFFFFCA4F8062301A74BF8EF74C32C1.tmp' to '../../../../../../Projet/Leap_Test/VR_Vive/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset'
+[2018.05.24-14.37.42:543][271]LogSavePackage: Display: Finished SavePackage ../../../../../../Projet/Leap_Test/VR_Vive/Content/VirtualRealityBP/Blueprints/BP_MotionController.uasset
+[2018.05.24-14.37.42:595][271]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Maps/Map1" FILE="../../../../../../Projet/Leap_Test/VR_Vive/Content/VirtualRealityBP/Maps/Map1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.24-14.37.42:659][271]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c6eb82d440, Size=72
+[2018.05.24-14.37.42:659][271]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c6d58105e0, Size=72, Default__Map1_C Function /Engine/Transient.REINST_Map1_C_526:ExecuteUbergraph_Map1
+[2018.05.24-14.37.42:665][271]LogUObjectGlobals: Created PersistentFrame Addr=0x000002c77c01d5d0, Size=72, Default__Map1_C Function /Game/VirtualRealityBP/Maps/Map1.Map1_C:ExecuteUbergraph_Map1
+[2018.05.24-14.37.42:840][271]LogSavePackage: Save=215.32ms
+[2018.05.24-14.37.42:840][271]LogSavePackage: Moving '../../../../../../Projet/Leap_Test/VR_Vive/Saved/Map1B016860442E9BB3967811CB23B283CCC.tmp' to '../../../../../../Projet/Leap_Test/VR_Vive/Content/VirtualRealityBP/Maps/Map1.umap'
+[2018.05.24-14.37.42:842][271]LogSavePackage: Display: Finished SavePackage ../../../../../../Projet/Leap_Test/VR_Vive/Content/VirtualRealityBP/Maps/Map1.umap
+[2018.05.24-14.37.42:875][271]LogFileHelpers: Saving map 'Map1' took 0.329
+[2018.05.24-14.37.42:959][271]LogSlate: Window 'VR_Vive - Unreal Editor' being destroyed
+[2018.05.24-14.37.42:959][271]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.05.24-14.37.43:200][272]Cmd: QUIT_EDITOR
+[2018.05.24-14.37.43:966][272]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.05.24-14.37.43:967][272]LogExit: Preparing to exit.
+[2018.05.24-14.37.44:255][272]PIE: UWidget::RemoveFromParent() called on 'None.None:None' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.05.24-14.37.44:266][272]LogExit: Editor shut down
+[2018.05.24-14.37.44:268][272]LogExit: Transaction tracking system shut down
+[2018.05.24-14.37.44:269][272]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c6976054b0, Size=4
+[2018.05.24-14.37.44:269][272]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c6974c5bc0, Size=32
+[2018.05.24-14.37.44:269][272]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c6974c5be0, Size=32
+[2018.05.24-14.37.44:269][272]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c6970f3f60, Size=160
+[2018.05.24-14.37.44:269][272]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c697482750, Size=16
+[2018.05.24-14.37.44:269][272]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c6973fd690, Size=24
+[2018.05.24-14.37.44:269][272]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c704e6a340, Size=160
+[2018.05.24-14.37.44:271][272]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c70310e030, Size=4
+[2018.05.24-14.37.44:271][272]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c70310e028, Size=4
+[2018.05.24-14.37.44:272][272]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c77c01d5d0, Size=72
+[2018.05.24-14.37.44:272][272]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c825196fc0, Size=32
+[2018.05.24-14.37.44:272][272]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c6d58105e0, Size=72
+[2018.05.24-14.37.44:272][272]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c813c17c00, Size=944
+[2018.05.24-14.37.44:272][272]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002c73fd47400, Size=968
+[2018.05.24-14.37.44:405][272]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.05.24-14.37.44:405][272]LogDirectoryWatcher: A directory notification for '../../../../../../Projet/Leap_Test/VR_Vive/Content/' was aborted.
+[2018.05.24-14.37.44:405][272]LogDirectoryWatcher: A directory notification for '../../Plugins/2D/Paper2D/Content/' was aborted.
+[2018.05.24-14.37.44:405][272]LogDirectoryWatcher: A directory notification for '../../Plugins/Enterprise/DatasmithContent/Content/' was aborted.
+[2018.05.24-14.37.44:405][272]LogDirectoryWatcher: A directory notification for '../../Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.05.24-14.37.44:405][272]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.05.24-14.37.44:405][272]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/LeapMotion/Content/' was aborted.
+[2018.05.24-14.37.44:405][272]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.05.24-14.37.44:503][272]LogExit: Object subsystem successfully closed.
+[2018.05.24-14.37.44:514][272]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.05.24-14.37.44:517][272]LogD3D11RHI: Shutdown
+[2018.05.24-14.37.44:517][272]LogD3D11RHI: CleanupD3DDevice
+[2018.05.24-14.37.44:523][272]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.05.24-14.37.44:535][272]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (584)
+[2018.05.24-14.37.44:535][272]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (582)
+[2018.05.24-14.37.44:535][272]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (580)
+[2018.05.24-14.37.44:535][272]LogModuleManager: Shutting down and abandoning module SequencerWidgets (578)
+[2018.05.24-14.37.44:535][272]LogModuleManager: Shutting down and abandoning module BlueprintGraph (576)
+[2018.05.24-14.37.44:535][272]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (574)
+[2018.05.24-14.37.44:535][272]LogModuleManager: Shutting down and abandoning module SceneOutliner (572)
+[2018.05.24-14.37.44:535][272]LogModuleManager: Shutting down and abandoning module AddContentDialog (570)
+[2018.05.24-14.37.44:535][272]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.19/FeaturePacks/' was aborted.
+[2018.05.24-14.37.44:535][272]LogModuleManager: Shutting down and abandoning module WidgetCarousel (569)
+[2018.05.24-14.37.44:536][272]LogModuleManager: Shutting down and abandoning module EditorWidgets (566)
+[2018.05.24-14.37.44:536][272]LogModuleManager: Shutting down and abandoning module CollectionManager (564)
+[2018.05.24-14.37.44:536][272]LogDirectoryWatcher: A directory notification for 'C:/Projet/Leap_Test/VR_Vive/Content/Collections/' was aborted.
+[2018.05.24-14.37.44:536][272]LogDirectoryWatcher: A directory notification for 'C:/Projet/Leap_Test/VR_Vive/Content/Developers/Admin/Collections/' was aborted.
+[2018.05.24-14.37.44:536][272]LogDirectoryWatcher: A directory notification for 'C:/Projet/Leap_Test/VR_Vive/Saved/Collections/' was aborted.
+[2018.05.24-14.37.44:536][272]LogModuleManager: Shutting down and abandoning module StatsViewer (562)
+[2018.05.24-14.37.44:536][272]LogModuleManager: Shutting down and abandoning module FoliageEdit (560)
+[2018.05.24-14.37.44:536][272]LogModuleManager: Shutting down and abandoning module LandscapeEditor (558)
+[2018.05.24-14.37.44:536][272]LogModuleManager: Shutting down and abandoning module MeshPaintMode (556)
+[2018.05.24-14.37.44:536][272]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (554)
+[2018.05.24-14.37.44:536][272]LogModuleManager: Shutting down and abandoning module ActorPickerMode (552)
+[2018.05.24-14.37.44:536][272]LogModuleManager: Shutting down and abandoning module GeometryMode (550)
+[2018.05.24-14.37.44:536][272]LogModuleManager: Shutting down and abandoning module TextureAlignMode (548)
+[2018.05.24-14.37.44:536][272]LogModuleManager: Shutting down and abandoning module BspMode (546)
+[2018.05.24-14.37.44:536][272]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (544)
+[2018.05.24-14.37.44:536][272]LogModuleManager: Shutting down and abandoning module HardwareSurvey (542)
+[2018.05.24-14.37.44:536][272]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (540)
+[2018.05.24-14.37.44:536][272]LogModuleManager: Shutting down and abandoning module AutomationWorker (538)
+[2018.05.24-14.37.44:536][272]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (536)
+[2018.05.24-14.37.44:536][272]LogModuleManager: Shutting down and abandoning module SequenceRecorder (535)
+[2018.05.24-14.37.44:536][272]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (532)
+[2018.05.24-14.37.44:536][272]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (530)
+[2018.05.24-14.37.44:536][272]LogModuleManager: Shutting down and abandoning module PlacementMode (529)
+[2018.05.24-14.37.44:536][272]LogModuleManager: Shutting down and abandoning module MaterialEditor (528)
+[2018.05.24-14.37.44:536][272]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (524)
+[2018.05.24-14.37.44:536][272]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (522)
+[2018.05.24-14.37.44:536][272]LogModuleManager: Shutting down and abandoning module MfMediaFactory (520)
+[2018.05.24-14.37.44:536][272]LogModuleManager: Shutting down and abandoning module MfMediaEditor (518)
+[2018.05.24-14.37.44:536][272]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (516)
+[2018.05.24-14.37.44:536][272]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (514)
+[2018.05.24-14.37.44:536][272]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (512)
+[2018.05.24-14.37.44:536][272]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (510)
+[2018.05.24-14.37.44:536][272]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (508)
+[2018.05.24-14.37.44:536][272]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (506)
+[2018.05.24-14.37.44:536][272]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (504)
+[2018.05.24-14.37.44:536][272]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (502)
+[2018.05.24-14.37.44:536][272]LogModuleManager: Shutting down and abandoning module CharacterAI (500)
+[2018.05.24-14.37.44:536][272]LogModuleManager: Shutting down and abandoning module SmartSnapping (498)
+[2018.05.24-14.37.44:536][272]LogModuleManager: Shutting down and abandoning module SessionServices (496)
+[2018.05.24-14.37.44:536][272]LogModuleManager: Shutting down and abandoning module ViewportSnapping (494)
+[2018.05.24-14.37.44:536][272]LogModuleManager: Shutting down and abandoning module ViewportInteraction (492)
+[2018.05.24-14.37.44:536][272]LogModuleManager: Shutting down and abandoning module ClothPainter (490)
+[2018.05.24-14.37.44:537][272]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (489)
+[2018.05.24-14.37.44:537][272]LogModuleManager: Shutting down and abandoning module LogVisualizer (486)
+[2018.05.24-14.37.44:537][272]LogModuleManager: Shutting down and abandoning module IntroTutorials (484)
+[2018.05.24-14.37.44:537][272]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (483)
+[2018.05.24-14.37.44:537][272]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (480)
+[2018.05.24-14.37.44:537][272]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (478)
+[2018.05.24-14.37.44:537][272]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (476)
+[2018.05.24-14.37.44:537][272]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (475)
+[2018.05.24-14.37.44:597][272]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (472)
+[2018.05.24-14.37.44:597][272]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (470)
+[2018.05.24-14.37.44:597][272]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (468)
+[2018.05.24-14.37.44:597][272]LogModuleManager: Shutting down and abandoning module InputBindingEditor (466)
+[2018.05.24-14.37.44:597][272]LogModuleManager: Shutting down and abandoning module MergeActors (464)
+[2018.05.24-14.37.44:597][272]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (462)
+[2018.05.24-14.37.44:597][272]LogModuleManager: Shutting down and abandoning module LocalizationService (461)
+[2018.05.24-14.37.44:597][272]LogModuleManager: Shutting down and abandoning module HardwareTargeting (458)
+[2018.05.24-14.37.44:597][272]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (456)
+[2018.05.24-14.37.44:597][272]LogModuleManager: Shutting down and abandoning module UndoHistory (454)
+[2018.05.24-14.37.44:597][272]LogModuleManager: Shutting down and abandoning module XmlParser (452)
+[2018.05.24-14.37.44:597][272]LogModuleManager: Shutting down and abandoning module Blutility (450)
+[2018.05.24-14.37.44:597][272]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (448)
+[2018.05.24-14.37.44:597][272]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (447)
+[2018.05.24-14.37.44:597][272]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (444)
+[2018.05.24-14.37.44:598][272]LogModuleManager: Shutting down and abandoning module SettingsEditor (442)
+[2018.05.24-14.37.44:598][272]LogModuleManager: Shutting down and abandoning module ProjectLauncher (440)
+[2018.05.24-14.37.44:598][272]LogModuleManager: Shutting down and abandoning module SessionFrontend (438)
+[2018.05.24-14.37.44:598][272]LogModuleManager: Shutting down and abandoning module ProfilerClient (436)
+[2018.05.24-14.37.44:598][272]LogModuleManager: Shutting down and abandoning module DeviceManager (434)
+[2018.05.24-14.37.44:598][272]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (433)
+[2018.05.24-14.37.44:652][272]LogModuleManager: Shutting down and abandoning module AutomationController (430)
+[2018.05.24-14.37.44:652][272]LogModuleManager: Shutting down and abandoning module AutomationWindow (428)
+[2018.05.24-14.37.44:652][272]LogModuleManager: Shutting down and abandoning module Layers (426)
+[2018.05.24-14.37.44:652][272]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (424)
+[2018.05.24-14.37.44:652][272]LogModuleManager: Shutting down and abandoning module DetailCustomizations (422)
+[2018.05.24-14.37.44:652][272]LogModuleManager: Shutting down and abandoning module PackagesDialog (420)
+[2018.05.24-14.37.44:652][272]LogModuleManager: Shutting down and abandoning module Persona (418)
+[2018.05.24-14.37.44:652][272]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (417)
+[2018.05.24-14.37.44:652][272]LogModuleManager: Shutting down and abandoning module AnimGraph (415)
+[2018.05.24-14.37.44:652][272]LogModuleManager: Shutting down and abandoning module Kismet (412)
+[2018.05.24-14.37.44:657][272]LogModuleManager: Shutting down and abandoning module GraphEditor (410)
+[2018.05.24-14.37.44:658][272]LogModuleManager: Shutting down and abandoning module ClassViewer (408)
+[2018.05.24-14.37.44:659][272]LogModuleManager: Shutting down and abandoning module Toolbox (406)
+[2018.05.24-14.37.44:659][272]LogModuleManager: Shutting down and abandoning module ModuleUI (404)
+[2018.05.24-14.37.44:659][272]LogModuleManager: Shutting down and abandoning module MovieSceneTools (402)
+[2018.05.24-14.37.44:659][272]LogModuleManager: Shutting down and abandoning module OutputLog (400)
+[2018.05.24-14.37.44:659][272]LogModuleManager: Shutting down and abandoning module GammaUI (398)
+[2018.05.24-14.37.44:659][272]LogModuleManager: Shutting down and abandoning module Documentation (396)
+[2018.05.24-14.37.44:659][272]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (394)
+[2018.05.24-14.37.44:659][272]LogModuleManager: Shutting down and abandoning module MovieScene (392)
+[2018.05.24-14.37.44:659][272]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (390)
+[2018.05.24-14.37.44:659][272]LogModuleManager: Shutting down and abandoning module LauncherPlatform (388)
+[2018.05.24-14.37.44:659][272]LogModuleManager: Shutting down and abandoning module AnalyticsET (386)
+[2018.05.24-14.37.44:659][272]LogModuleManager: Shutting down and abandoning module PortalServices (384)
+[2018.05.24-14.37.44:659][272]LogModuleManager: Shutting down and abandoning module PortalRpc (382)
+[2018.05.24-14.37.44:659][272]LogModuleManager: Shutting down and abandoning module MessagingRpc (380)
+[2018.05.24-14.37.44:659][272]LogModuleManager: Shutting down and abandoning module AIModule (378)
+[2018.05.24-14.37.44:659][272]LogModuleManager: Shutting down and abandoning module GameplayDebugger (377)
+[2018.05.24-14.37.44:659][272]LogModuleManager: Shutting down and abandoning module AITestSuite (375)
+[2018.05.24-14.37.44:659][272]LogModuleManager: Shutting down and abandoning module DesktopPlatform (372)
+[2018.05.24-14.37.44:659][272]LogModuleManager: Shutting down and abandoning module ProfilerService (370)
+[2018.05.24-14.37.44:895][272]LogModuleManager: Shutting down and abandoning module TaskGraph (368)
+[2018.05.24-14.37.44:895][272]LogModuleManager: Shutting down and abandoning module SteamVRController (366)
+[2018.05.24-14.37.44:895][272]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (364)
+[2018.05.24-14.37.44:895][272]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (362)
+[2018.05.24-14.37.44:895][272]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (360)
+[2018.05.24-14.37.44:895][272]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (358)
+[2018.05.24-14.37.44:895][272]LogModuleManager: Shutting down and abandoning module CableComponent (356)
+[2018.05.24-14.37.44:895][272]LogModuleManager: Shutting down and abandoning module AudioCapture (354)
+[2018.05.24-14.37.44:895][272]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (352)
+[2018.05.24-14.37.44:895][272]LogModuleManager: Shutting down and abandoning module AndroidPermission (350)
+[2018.05.24-14.37.44:895][272]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (346)
+[2018.05.24-14.37.44:895][272]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (344)
+[2018.05.24-14.37.44:895][272]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (342)
+[2018.05.24-14.37.44:895][272]LogModuleManager: Shutting down and abandoning module MediaCompositing (340)
+[2018.05.24-14.37.44:895][272]LogModuleManager: Shutting down and abandoning module LinearTimecode (338)
+[2018.05.24-14.37.44:895][272]LogModuleManager: Shutting down and abandoning module ImgMedia (336)
+[2018.05.24-14.37.44:898][272]LogModuleManager: Shutting down and abandoning module HTML5Networking (334)
+[2018.05.24-14.37.44:898][272]LogModuleManager: Shutting down and abandoning module AlembicImporter (332)
+[2018.05.24-14.37.44:898][272]LogModuleManager: Shutting down and abandoning module AlembicLibrary (331)
+[2018.05.24-14.37.44:898][272]LogModuleManager: Shutting down and abandoning module GeometryCache (330)
+[2018.05.24-14.37.44:898][272]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (329)
+[2018.05.24-14.37.44:898][272]LogModuleManager: Shutting down and abandoning module DatasmithContent (324)
+[2018.05.24-14.37.44:898][272]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (322)
+[2018.05.24-14.37.44:898][272]LogModuleManager: Shutting down and abandoning module PluginBrowser (320)
+[2018.05.24-14.37.44:898][272]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (318)
+[2018.05.24-14.37.44:898][272]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (316)
+[2018.05.24-14.37.44:898][272]LogModuleManager: Shutting down and abandoning module CryptoKeys (314)
+[2018.05.24-14.37.44:898][272]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (312)
+[2018.05.24-14.37.44:898][272]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (310)
+[2018.05.24-14.37.44:898][272]LogModuleManager: Shutting down and abandoning module UObjectPlugin (308)
+[2018.05.24-14.37.44:898][272]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (306)
+[2018.05.24-14.37.44:898][272]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (304)
+[2018.05.24-14.37.44:898][272]LogModuleManager: Shutting down and abandoning module GitSourceControl (302)
+[2018.05.24-14.37.44:898][272]LogModuleManager: Shutting down and abandoning module SourceControl (301)
+[2018.05.24-14.37.44:898][272]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (298)
+[2018.05.24-14.37.44:898][272]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (296)
+[2018.05.24-14.37.44:898][272]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (294)
+[2018.05.24-14.37.44:898][272]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (292)
+[2018.05.24-14.37.44:898][272]LogModuleManager: Shutting down and abandoning module Paper2DEditor (290)
+[2018.05.24-14.37.44:898][272]LogModuleManager: Shutting down and abandoning module MeshPaint (289)
+[2018.05.24-14.37.44:898][272]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (286)
+[2018.05.24-14.37.44:898][272]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (284)
+[2018.05.24-14.37.44:898][272]LogModuleManager: Shutting down and abandoning module PhysXVehicles (282)
+[2018.05.24-14.37.44:898][272]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (280)
+[2018.05.24-14.37.44:898][272]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (278)
+[2018.05.24-14.37.44:898][272]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (276)
+[2018.05.24-14.37.44:898][272]LogModuleManager: Shutting down and abandoning module ActorSequence (274)
+[2018.05.24-14.37.44:898][272]LogModuleManager: Shutting down and abandoning module UdpMessaging (272)
+[2018.05.24-14.37.45:000][272]LogModuleManager: Shutting down and abandoning module TcpMessaging (270)
+[2018.05.24-14.37.45:101][272]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (268)
+[2018.05.24-14.37.45:101][272]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (266)
+[2018.05.24-14.37.45:101][272]LogModuleManager: Shutting down and abandoning module FacialAnimation (264)
+[2018.05.24-14.37.45:101][272]LogModuleManager: Shutting down and abandoning module DataValidation (262)
+[2018.05.24-14.37.45:101][272]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (260)
+[2018.05.24-14.37.45:101][272]LogModuleManager: Shutting down and abandoning module LevelEditor (259)
+[2018.05.24-14.37.45:101][272]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (258)
+[2018.05.24-14.37.45:101][272]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (256)
+[2018.05.24-14.37.45:101][272]LogModuleManager: Shutting down and abandoning module MainFrame (254)
+[2018.05.24-14.37.45:101][272]LogModuleManager: Shutting down and abandoning module HotReload (253)
+[2018.05.24-14.37.45:102][272]LogDirectoryWatcher: A directory notification for 'C:/Projet/Leap_Test/VR_Vive/Binaries/Win64' was aborted.
+[2018.05.24-14.37.45:102][272]LogModuleManager: Shutting down and abandoning module ContentBrowser (249)
+[2018.05.24-14.37.45:102][272]LogModuleManager: Shutting down and abandoning module TreeMap (247)
+[2018.05.24-14.37.45:102][272]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (244)
+[2018.05.24-14.37.45:102][272]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (242)
+[2018.05.24-14.37.45:102][272]LogModuleManager: Shutting down and abandoning module LiveLink (240)
+[2018.05.24-14.37.45:690][272]LogModuleManager: Shutting down and abandoning module Paper2D (238)
+[2018.05.24-14.37.45:690][272]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (236)
+[2018.05.24-14.37.45:690][272]LogModuleManager: Shutting down and abandoning module WmfMedia (234)
+[2018.05.24-14.37.45:693][272]LogModuleManager: Shutting down and abandoning module Media (233)
+[2018.05.24-14.37.45:699][272]LogModuleManager: Shutting down and abandoning module PacketHandler (230)
+[2018.05.24-14.37.45:699][272]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (228)
+[2018.05.24-14.37.45:699][272]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (226)
+[2018.05.24-14.37.45:699][272]LogModuleManager: Shutting down and abandoning module MediaAssets (224)
+[2018.05.24-14.37.45:699][272]LogModuleManager: Shutting down and abandoning module Overlay (222)
+[2018.05.24-14.37.45:699][272]LogModuleManager: Shutting down and abandoning module OverlayEditor (221)
+[2018.05.24-14.37.45:699][272]LogModuleManager: Shutting down and abandoning module VREditor (218)
+[2018.05.24-14.37.45:699][272]LogModuleManager: Shutting down and abandoning module StringTableEditor (216)
+[2018.05.24-14.37.45:699][272]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (214)
+[2018.05.24-14.37.45:699][272]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (212)
+[2018.05.24-14.37.45:699][272]LogModuleManager: Shutting down and abandoning module FunctionalTesting (210)
+[2018.05.24-14.37.45:699][272]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (208)
+[2018.05.24-14.37.45:699][272]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (207)
+[2018.05.24-14.37.45:699][272]LogModuleManager: Shutting down and abandoning module UMG (204)
+[2018.05.24-14.37.45:700][272]LogModuleManager: Shutting down and abandoning module UMGEditor (203)
+[2018.05.24-14.37.45:700][272]LogModuleManager: Shutting down and abandoning module Sequencer (202)
+[2018.05.24-14.37.45:700][272]LogModuleManager: Shutting down and abandoning module MessageLog (199)
+[2018.05.24-14.37.45:700][272]LogModuleManager: Shutting down and abandoning module SlateReflector (194)
+[2018.05.24-14.37.45:700][272]LogModuleManager: Shutting down and abandoning module Slate (192)
+[2018.05.24-14.37.45:700][272]LogModuleManager: Shutting down and abandoning module EditorStyle (190)
+[2018.05.24-14.37.45:701][272]LogModuleManager: Shutting down and abandoning module MRMesh (188)
+[2018.05.24-14.37.45:701][272]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (186)
+[2018.05.24-14.37.45:701][272]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (184)
+[2018.05.24-14.37.45:701][272]LogModuleManager: Shutting down and abandoning module XAudio2 (182)
+[2018.05.24-14.37.45:701][272]LogModuleManager: Shutting down and abandoning module Networking (180)
+[2018.05.24-14.37.45:701][272]LogModuleManager: Shutting down and abandoning module Core (178)
+[2018.05.24-14.37.45:701][272]LogModuleManager: Shutting down and abandoning module LevelSequence (176)
+[2018.05.24-14.37.45:701][272]LogModuleManager: Shutting down and abandoning module KismetCompiler (174)
+[2018.05.24-14.37.45:701][272]LogModuleManager: Shutting down and abandoning module MeshUtilities (172)
+[2018.05.24-14.37.45:701][272]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (171)
+[2018.05.24-14.37.45:701][272]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (170)
+[2018.05.24-14.37.45:701][272]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (169)
+[2018.05.24-14.37.45:701][272]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (167)
+[2018.05.24-14.37.45:701][272]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (165)
+[2018.05.24-14.37.45:701][272]LogModuleManager: Shutting down and abandoning module MaterialBaking (161)
+[2018.05.24-14.37.45:702][272]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (157)
+[2018.05.24-14.37.45:702][272]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2018.05.24-14.37.45:709][272]LogDerivedDataCache: Shutdown
+[2018.05.24-14.37.45:709][272]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2018.05.24-14.37.45:709][272]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2018.05.24-14.37.45:709][272]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2018.05.24-14.37.45:709][272]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2018.05.24-14.37.45:709][272]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2018.05.24-14.37.45:709][272]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2018.05.24-14.37.45:709][272]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2018.05.24-14.37.45:709][272]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2018.05.24-14.37.45:709][272]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2018.05.24-14.37.45:709][272]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2018.05.24-14.37.45:709][272]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2018.05.24-14.37.45:709][272]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2018.05.24-14.37.45:709][272]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2018.05.24-14.37.45:709][272]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2018.05.24-14.37.45:709][272]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2018.05.24-14.37.45:709][272]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2018.05.24-14.37.45:709][272]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2018.05.24-14.37.45:709][272]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (119)
+[2018.05.24-14.37.45:709][272]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (117)
+[2018.05.24-14.37.45:709][272]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (115)
+[2018.05.24-14.37.45:709][272]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (113)
+[2018.05.24-14.37.45:709][272]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (111)
+[2018.05.24-14.37.45:709][272]LogModuleManager: Shutting down and abandoning module Messaging (109)
+[2018.05.24-14.37.45:709][272]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (107)
+[2018.05.24-14.37.45:709][272]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (105)
+[2018.05.24-14.37.45:709][272]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (103)
+[2018.05.24-14.37.45:710][272]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (101)
+[2018.05.24-14.37.45:710][272]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (99)
+[2018.05.24-14.37.45:710][272]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (97)
+[2018.05.24-14.37.45:710][272]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (95)
+[2018.05.24-14.37.45:710][272]LogModuleManager: Shutting down and abandoning module Android_ETC1aTargetPlatform (93)
+[2018.05.24-14.37.45:710][272]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (91)
+[2018.05.24-14.37.45:710][272]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (89)
+[2018.05.24-14.37.45:710][272]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (87)
+[2018.05.24-14.37.45:710][272]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (85)
+[2018.05.24-14.37.45:710][272]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (83)
+[2018.05.24-14.37.45:710][272]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (81)
+[2018.05.24-14.37.45:710][272]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (79)
+[2018.05.24-14.37.45:710][272]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (77)
+[2018.05.24-14.37.45:710][272]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (75)
+[2018.05.24-14.37.45:710][272]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (73)
+[2018.05.24-14.37.45:710][272]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (71)
+[2018.05.24-14.37.45:710][272]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (69)
+[2018.05.24-14.37.45:710][272]LogModuleManager: Shutting down and abandoning module InputCore (66)
+[2018.05.24-14.37.45:710][272]LogModuleManager: Shutting down and abandoning module Settings (64)
+[2018.05.24-14.37.45:710][272]LogModuleManager: Shutting down and abandoning module PhysXCooking (62)
+[2018.05.24-14.37.45:710][272]LogModuleManager: Shutting down and abandoning module SteamVR (60)
+[2018.05.24-14.37.45:710][272]LogModuleManager: Shutting down and abandoning module LeapMotion (58)
+[2018.05.24-14.37.45:710][272]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (56)
+[2018.05.24-14.37.45:710][272]LogModuleManager: Shutting down and abandoning module AppleARKit (54)
+[2018.05.24-14.37.45:710][272]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.05.24-14.37.45:710][272]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.05.24-14.37.45:710][272]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.05.24-14.37.45:710][272]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.05.24-14.37.45:710][272]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.05.24-14.37.45:710][272]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.05.24-14.37.45:710][272]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BFFFDED30-47A7-C36F-2FEB-8CA17BB336DE%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.2-4033788%2B%2B%2BUE4%2BRelease-4.19&UserID=50a37414462629c1b56efea8baa81f44%7C469ee4355c784b739c066a285dd69c72%7C7e339617-ad19-456c-81cf-4e388fb145dd&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.05.24-14.37.45:742][272]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.05.24-14.37.45:743][272]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.05.24-14.37.45:744][272]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.05.24-14.37.45:744][272]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.05.24-14.37.45:744][272]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.05.24-14.37.45:744][272]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.05.24-14.37.45:744][272]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.05.24-14.37.45:744][272]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.05.24-14.37.45:745][272]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.05.24-14.37.45:745][272]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.05.24-14.37.45:745][272]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.05.24-14.37.45:745][272]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.05.24-14.37.45:745][272]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.05.24-14.37.45:745][272]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.05.24-14.37.45:745][272]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.05.24-14.37.45:745][272]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.05.24-14.37.45:745][272]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.05.24-14.37.45:745][272]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.05.24-14.37.45:746][272]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.05.24-14.37.45:751][272]LogExit: Exiting.
+[2018.05.24-14.37.45:766][272]Log file closed, 05/24/18 16:37:45
