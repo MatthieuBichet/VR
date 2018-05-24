@@ -1,1 +1,5 @@
+#Ignore *.pak
 *.pak
+#Ignore Stagedbuilds et Cooked
+Saved/StagedBuilds/
+Saved/Cooked/
