@@ -1,0 +1,550 @@
+﻿Log file open, 05/04/18 13:40:28
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: VR_Vive
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1223017610) SRandInit(-1223017610).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.256992
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MfMedia/Binaries/Win64/UE4Editor-MfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MfMedia/Binaries/Win64/UE4Editor-MfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LeapMotion/Binaries/Win64/UE4Editor-LeapMotion.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin MfMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LeapMotion
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.669s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-TQJUSPE (192.168.179.90:0)
+LeapPluginLog: Using LeapPlugin version 2.0.0
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line: -EpicPortal 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.05.04-11.40.29:816][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.04-11.40.29:816][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.05.04-11.40.29:826][  0]LogInit: Computer: DESKTOP-TQJUSPE
+[2018.05.04-11.40.29:826][  0]LogInit: User: Admin
+[2018.05.04-11.40.29:826][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.05.04-11.40.29:826][  0]LogInit: High frequency timer resolution =4.101558 MHz
+[2018.05.04-11.40.29:826][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2018.05.04-11.40.29:826][  0]LogMemory: Platform Memory Stats for Windows
+[2018.05.04-11.40.29:826][  0]LogMemory: Process Physical Memory: 279.80 MB used, 279.80 MB peak
+[2018.05.04-11.40.29:826][  0]LogMemory: Process Virtual Memory: 265.80 MB used, 265.80 MB peak
+[2018.05.04-11.40.29:826][  0]LogMemory: Physical Memory: 8198.22 MB used,  24512.42 MB free, 32710.64 MB total
+[2018.05.04-11.40.29:826][  0]LogMemory: Virtual Memory: 745.48 MB used,  24512.42 MB free, 134217728.00 MB total
+[2018.05.04-11.40.29:840][  0]LogInit: Using OS detected language (fr-FR).
+[2018.05.04-11.40.29:840][  0]LogInit: Using OS detected locale (fr-FR).
+[2018.05.04-11.40.29:842][  0]LogTextLocalizationManager: No localization for 'fr-FR' exists, so 'en' will be used for the language.
+[2018.05.04-11.40.30:185][  0]LogStreaming: Display: Took  0.345s to EndInitTextLocalization.
+[2018.05.04-11.40.30:185][  0]LogInit: Setting process to per monitor DPI aware
+[2018.05.04-11.40.30:211][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.05.04-11.40.30:211][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.05.04-11.40.30:351][  0]LogD3D11RHI: D3D11 adapters:
+[2018.05.04-11.40.30:390][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2018.05.04-11.40.30:390][  0]LogD3D11RHI:       8079/0/16355 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.05.04-11.40.30:391][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.05.04-11.40.30:391][  0]LogD3D11RHI:       0/0/16355 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.05.04-11.40.30:391][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.05.04-11.40.30:397][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.05.04-11.40.30:398][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2018.05.04-11.40.30:398][  0]LogWindows: EnumDisplayDevices:
+[2018.05.04-11.40.30:398][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2018.05.04-11.40.30:398][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.05.04-11.40.30:398][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.05.04-11.40.30:398][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2018.05.04-11.40.30:398][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.05.04-11.40.30:398][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2018.05.04-11.40.30:398][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.05.04-11.40.30:398][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.05.04-11.40.30:398][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2018.05.04-11.40.30:422][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.05.04-11.40.30:422][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.05.04-11.40.30:422][  0]LogD3D11RHI: Async texture creation enabled
+[2018.05.04-11.40.30:438][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.05.04-11.40.30:481][  0]LogShaderCompilers: Guid format shader working directory is 3 characters bigger than the processId version (../../../../../../Projet/Leap Test/VR_Vive/Intermediate/Shaders/WorkingDirectory/11480/).
+[2018.05.04-11.40.30:481][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Admin/AppData/Local/Temp/UnrealShaderWorkingDir/6B739AC0495E7D992F16FBBB5D3F71DC/'.
+[2018.05.04-11.40.30:664][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.05.04-11.40.30:677][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.05.04-11.40.30:688][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.05.04-11.40.30:699][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.05.04-11.40.30:710][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.05.04-11.40.30:720][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.05.04-11.40.30:734][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.05.04-11.40.30:747][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.05.04-11.40.30:753][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.05.04-11.40.30:763][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.05.04-11.40.30:773][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.05.04-11.40.30:784][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.05.04-11.40.30:794][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.05.04-11.40.30:804][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.05.04-11.40.30:814][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.05.04-11.40.30:836][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.05.04-11.40.30:836][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.05.04-11.40.30:849][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.05.04-11.40.30:850][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.05.04-11.40.30:884][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.05.04-11.40.30:895][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.05.04-11.40.30:909][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.05.04-11.40.30:922][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.05.04-11.40.30:936][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.05.04-11.40.30:947][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.05.04-11.40.30:947][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.05.04-11.40.31:038][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.05.04-11.40.31:038][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.05.04-11.40.31:038][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.05.04-11.40.31:666][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.05.04-11.40.31:734][  0]LogDerivedDataCache: Loaded boot cache 0.07s 88MB C:/Users/Admin/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.05.04-11.40.31:734][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Admin/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.05.04-11.40.31:734][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Projet/Leap Test/VR_Vive/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.05.04-11.40.31:734][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.05.04-11.40.31:734][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Projet/Leap Test/VR_Vive/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.05.04-11.40.31:734][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.05.04-11.40.31:750][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.05.04-11.40.31:761][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Admin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.05.04-11.40.31:761][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.05.04-11.40.31:761][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.05.04-11.40.31:773][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.05.04-11.40.31:773][  0]LogSlate: Using Freetype 2.6.0
+[2018.05.04-11.40.31:774][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.04-11.40.31:774][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.04-11.40.31:883][  0]LogAssetRegistry: FAssetRegistry took 0.0265 seconds to start up
+[2018.05.04-11.40.32:178][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.04-11.40.32:294][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.05.04-11.40.32:296][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.05.04-11.40.32:296][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.05.04-11.40.32:296][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.05.04-11.40.32:296][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.05.04-11.40.32:296][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.05.04-11.40.32:317][  0]LogNetVersion: VR_Vive , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3714651950)
+[2018.05.04-11.40.32:633][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 1 prioritized culture(s) in 0.038434 seconds
+[2018.05.04-11.40.32:639][  0]LogUObjectArray: 37180 objects as part of root set at end of initial load.
+[2018.05.04-11.40.32:639][  0]LogUObjectAllocator: 7383288 out of 0 bytes used by permanent object pool.
+[2018.05.04-11.40.32:639][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.05.04-11.40.33:711][  0]LogWmfMedia: Failed to load mf.dll
+[2018.05.04-11.40.33:711][  0]LogWmfMedia: Failed to load required Windows Media Foundation libraries
+[2018.05.04-11.40.33:722][  0]LogWindowsMoviePlayer: Could not load mf.dll. Library not found.
+[2018.05.04-11.40.33:722][  0]LogWindowsMoviePlayer: Could not load mfplat.dll. Library not found.
+[2018.05.04-11.40.33:722][  0]LogWindowsMoviePlayer: Could not load mfplay.dll. Library not found.
+[2018.05.04-11.40.34:087][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.05.04-11.40.34:112][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.05.04-11.40.34:369][  0]SourceControl: Source control is disabled
+[2018.05.04-11.40.34:369][  0]SourceControl: Source control is disabled
+[2018.05.04-11.40.34:381][  0]SourceControl: Source control is disabled
+[2018.05.04-11.40.34:392][  0]SourceControl: Source control is disabled
+[2018.05.04-11.40.34:774][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.05.04-11.40.34:965][  0]LogEngine: Initializing Engine...
+[2018.05.04-11.40.35:520][  0]LogHMD: SteamVR initialized.  Driver: lighthouse  Display: LHR-A6C77329
+[2018.05.04-11.40.35:522][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.04-11.40.35:522][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.04-11.40.35:705][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.05.04-11.40.35:712][  0]LogInit: XAudio2 using 'Haut-parleurs (2- HTC Vive)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.04-11.40.35:719][  0]LogInit: FAudioDevice initialized.
+[2018.05.04-11.40.35:794][  0]LogDerivedDataCache: Saved boot cache 0.07s 75MB C:/Users/Admin/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.05.04-11.40.35:804][  0]LogInit: Texture streaming: Enabled
+[2018.05.04-11.40.35:816][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.05.04-11.40.35:829][  0]LogInit: Transaction tracking system initialized
+[2018.05.04-11.40.35:846][  0]BlueprintLog: New page: Editor Load
+[2018.05.04-11.40.35:904][  0]LocalizationService: Localization service is disabled
+[2018.05.04-11.40.35:977][  0]LogConsoleResponse: Display: 
+[2018.05.04-11.40.36:097][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.05.04-11.40.36:097][  0]LogCook: Display: Mobile HDR setting 0
+[2018.05.04-11.40.36:097][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.05.04-11.40.36:097][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.04-11.40.36:097][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.04-11.40.36:369][  0]LogFileCache: Scanning file cache for directory 'C:/Projet/Leap Test/VR_Vive/Content/' took 0.01s
+[2018.05.04-11.40.36:369][  0]SourceControl: Source control is disabled
+[2018.05.04-11.40.36:369][  0]Cmd: MAP LOAD FILE="../../../../../../Projet/Leap Test/VR_Vive/Content/VirtualRealityBP/Maps/Map1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.04-11.40.36:370][  0]LightingResults: New page: Lighting Build
+[2018.05.04-11.40.36:371][  0]MapCheck: New page: Map Check
+[2018.05.04-11.40.36:372][  0]LightingResults: New page: Lighting Build
+[2018.05.04-11.40.36:464][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022862555210, Size=24, Default__RightHand_AnimBP_C Function /Game/VirtualReality/Mannequin/Animations/RightHand_AnimBP.RightHand_AnimBP_C:ExecuteUbergraph_RightHand_AnimBP
+[2018.05.04-11.40.36:467][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022862555210, Size=24
+[2018.05.04-11.40.36:467][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022862555210, Size=24, Default__RightHand_AnimBP_C Function /Engine/Transient.REINST_RightHand_AnimBP_C_0:ExecuteUbergraph_RightHand_AnimBP
+[2018.05.04-11.40.36:469][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000228625544d8, Size=24, Default__RightHand_AnimBP_C Function /Game/VirtualReality/Mannequin/Animations/RightHand_AnimBP.RightHand_AnimBP_C:ExecuteUbergraph_RightHand_AnimBP
+[2018.05.04-11.40.36:502][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002286208f000, Size=968, Default__BP_MotionController_C Function /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:ExecuteUbergraph_BP_MotionController
+[2018.05.04-11.40.36:527][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002286208f000, Size=968
+[2018.05.04-11.40.36:527][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002286208f000, Size=968, Default__BP_MotionController_C Function /Engine/Transient.REINST_BP_MotionController_C_8:ExecuteUbergraph_BP_MotionController
+[2018.05.04-11.40.36:548][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002286208d000, Size=968, Default__BP_MotionController_C Function /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController_C:ExecuteUbergraph_BP_MotionController
+[2018.05.04-11.40.36:553][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022842807100, Size=768, Default__MotionControllerPawn_C Function /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn_C:ExecuteUbergraph_MotionControllerPawn
+[2018.05.04-11.40.36:565][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022842807100, Size=768
+[2018.05.04-11.40.36:565][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022842689600, Size=768, Default__MotionControllerPawn_C Function /Engine/Transient.REINST_MotionControllerPawn_C_10:ExecuteUbergraph_MotionControllerPawn
+[2018.05.04-11.40.36:576][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000228620a6200, Size=768, Default__MotionControllerPawn_C Function /Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn_C:ExecuteUbergraph_MotionControllerPawn
+[2018.05.04-11.40.36:586][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022842876d80, Size=32, Default__BP_PickupCube_C Function /Game/VirtualRealityBP/Blueprints/BP_PickupCube.BP_PickupCube_C:ExecuteUbergraph_BP_PickupCube
+[2018.05.04-11.40.36:588][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022842876d80, Size=32
+[2018.05.04-11.40.36:588][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000022842876d80, Size=32, Default__BP_PickupCube_C Function /Engine/Transient.REINST_BP_PickupCube_C_14:ExecuteUbergraph_BP_PickupCube
+[2018.05.04-11.40.36:590][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000228428770a0, Size=32, Default__BP_PickupCube_C Function /Game/VirtualRealityBP/Blueprints/BP_PickupCube.BP_PickupCube_C:ExecuteUbergraph_BP_PickupCube
+[2018.05.04-11.40.36:601][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000228427b9660, Size=96, Default__Map1_C Function /Game/VirtualRealityBP/Maps/Map1.Map1_C:ExecuteUbergraph_Map1
+[2018.05.04-11.40.36:602][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000228427b9660, Size=96
+[2018.05.04-11.40.36:602][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000228427b9660, Size=96, Default__Map1_C Function /Engine/Transient.REINST_Map1_C_16:ExecuteUbergraph_Map1
+[2018.05.04-11.40.36:603][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000228427bab60, Size=96, Default__Map1_C Function /Game/VirtualRealityBP/Maps/Map1.Map1_C:ExecuteUbergraph_Map1
+[2018.05.04-11.40.36:740][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [1.412146ms] /Game/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right.MannequinHand_Right
+[2018.05.04-11.40.36:839][  0]LogAIModule: Creating AISystem for world Map1
+[2018.05.04-11.40.36:846][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.04-11.40.36:859][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022862555210, Size=24
+[2018.05.04-11.40.36:859][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002286208f000, Size=968
+[2018.05.04-11.40.36:859][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022842689600, Size=768
+[2018.05.04-11.40.36:859][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000022842876d80, Size=32
+[2018.05.04-11.40.36:859][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000228427b9660, Size=96
+[2018.05.04-11.40.36:860][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.04-11.40.36:898][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 37,875ms to complete.
+[2018.05.04-11.40.36:898][  0]LogFileHelpers: Loading map 'Map1' took 0.529
+[2018.05.04-11.40.36:960][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.05.04-11.40.37:014][  0]LogCollectionManager: Loaded 0 collections in 0.001133 seconds
+[2018.05.04-11.40.37:052][  0]LogFileCache: Scanning file cache for directory 'C:/Projet/Leap Test/VR_Vive/Saved/Collections/' took 0.01s
+[2018.05.04-11.40.37:052][  0]LogFileCache: Scanning file cache for directory 'C:/Projet/Leap Test/VR_Vive/Content/Developers/Admin/Collections/' took 0.01s
+[2018.05.04-11.40.37:052][  0]LogFileCache: Scanning file cache for directory 'C:/Projet/Leap Test/VR_Vive/Content/Collections/' took 0.01s
+[2018.05.04-11.40.37:052][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.05.04-11.40.37:060][  0]LogContentBrowser: Native class hierarchy populated in 0.0082 seconds. Added 2476 classes and 561 folders.
+[2018.05.04-11.40.37:066][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.05.04-11.40.37:095][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.05.04-11.40.37:100][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.05.04-11.40.37:960][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.05.04-11.40.37:974][  0]LogDirectoryWatcher: Warning: Failed to begin reading directory changes for ../../../../../../Projet/Leap Test/VR_Vive/Plugins/. Error: Le fichier spécifié est introuvable. (0x00000002)
+[2018.05.04-11.40.37:979][  0]LogSlate: Took 0.000464 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.05.04-11.40.37:981][  0]LogSlate: Took 0.000191 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.05.04-11.40.37:987][  0]LogSlate: Took 0.000269 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.05.04-11.40.37:988][  0]LogSlate: Took 0.000288 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2018.05.04-11.40.38:116][  0]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.VRVive
+[2018.05.04-11.40.38:116][  0]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.05.04-11.40.38:116][  0]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.19
+[2018.05.04-11.40.38:116][  0]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.05.04-11.40.38:116][  0]LogTemp: BranchPath = DESKTOP-TQJUSPE/C/Program Files/Epic Games/UE_4.19/Engine/Binaries --- GameBranchPath = DESKTOP-TQJUSPE/C/Program Files/Epic Games/UE_4.19/Engine/Binaries
+[2018.05.04-11.40.38:117][  0]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Admin\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.05.04-11.40.38:117][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 26 NumSamples 1 (Frame:1).
+[2018.05.04-11.40.38:266][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.05.04-11.40.38:266][  0]LogLoad: (Engine Initialization) Total time: 10.18 seconds
+[2018.05.04-11.40.38:266][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.05.04-11.40.38:298][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.05.04-11.40.38:398][  1]LogAssetRegistry: Asset discovery search completed in 6.5360 seconds
+[2018.05.04-11.40.38:399][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.05.04-11.40.38:400][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000195 seconds (updated 0 objects)
+[2018.05.04-11.40.41:636][368]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-11.40.43:512][592]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-11.40.43:522][592]LogSlate: Took 0.000107 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.05.04-11.40.44:612][720]LogSlate: Took 0.000135 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.05.04-11.40.44:629][720]LogMaterial: Missing cached shader map for material Material_0, compiling. 
+[2018.05.04-11.40.44:666][720]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.05.04-11.40.44:667][720]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.05.04-11.40.44:680][720]LogContentBrowser: Verbose: The majority of assets in the view are of type: FileMediaSource
+[2018.05.04-11.40.45:438][790]LogMediaUtils: Error: Cannot play file://../../../../../../Projet/Leap Test/VR_Vive/Content/Movies/mega-coaster-get-ready-for-the-drop-360-video.mp4, because none of the enabled media player plug-ins support it:
+[2018.05.04-11.40.45:439][790]LogMediaUtils: | AndroidMedia (only available on Android, but not on Windows)
+[2018.05.04-11.40.45:439][790]LogMediaUtils: | AvfMedia (only available on iOS, Mac, but not on Windows)
+[2018.05.04-11.40.45:439][790]LogMediaUtils: | ImgMedia (URI scheme or file extension not supported)
+[2018.05.04-11.40.45:439][790]LogMediaUtils: | MfMedia (only available on XboxOne, but not on Windows)
+[2018.05.04-11.40.45:439][790]LogMediaUtils: | WmfMedia (URI scheme or file extension not supported)
+[2018.05.04-11.40.46:345][874]LogMediaUtils: Error: Cannot play file://../../../../../../Projet/Leap Test/VR_Vive/Content/Movies/mega-coaster-get-ready-for-the-drop-360-video.mp4, because none of the enabled media player plug-ins support it:
+[2018.05.04-11.40.46:345][874]LogMediaUtils: | AndroidMedia (only available on Android, but not on Windows)
+[2018.05.04-11.40.46:345][874]LogMediaUtils: | AvfMedia (only available on iOS, Mac, but not on Windows)
+[2018.05.04-11.40.46:345][874]LogMediaUtils: | ImgMedia (URI scheme or file extension not supported)
+[2018.05.04-11.40.46:345][874]LogMediaUtils: | MfMedia (only available on XboxOne, but not on Windows)
+[2018.05.04-11.40.46:345][874]LogMediaUtils: | WmfMedia (URI scheme or file extension not supported)
+[2018.05.04-11.40.46:907][930]LogMediaUtils: Error: Cannot play file://../../../../../../Projet/Leap Test/VR_Vive/Content/Movies/mega-coaster-get-ready-for-the-drop-360-video.mp4, because none of the enabled media player plug-ins support it:
+[2018.05.04-11.40.46:908][930]LogMediaUtils: | AndroidMedia (only available on Android, but not on Windows)
+[2018.05.04-11.40.46:908][930]LogMediaUtils: | AvfMedia (only available on iOS, Mac, but not on Windows)
+[2018.05.04-11.40.46:908][930]LogMediaUtils: | ImgMedia (URI scheme or file extension not supported)
+[2018.05.04-11.40.46:908][930]LogMediaUtils: | MfMedia (only available on XboxOne, but not on Windows)
+[2018.05.04-11.40.46:908][930]LogMediaUtils: | WmfMedia (URI scheme or file extension not supported)
+[2018.05.04-11.40.47:393][975]LogMediaUtils: Error: Cannot play file://../../../../../../Projet/Leap Test/VR_Vive/Content/Movies/sample.avi, because none of the enabled media player plug-ins support it:
+[2018.05.04-11.40.47:393][975]LogMediaUtils: | AndroidMedia (only available on Android, but not on Windows)
+[2018.05.04-11.40.47:394][975]LogMediaUtils: | AvfMedia (only available on iOS, Mac, but not on Windows)
+[2018.05.04-11.40.47:394][975]LogMediaUtils: | ImgMedia (URI scheme or file extension not supported)
+[2018.05.04-11.40.47:394][975]LogMediaUtils: | MfMedia (only available on XboxOne, but not on Windows)
+[2018.05.04-11.40.47:394][975]LogMediaUtils: | WmfMedia (URI scheme or file extension not supported)
+[2018.05.04-11.40.47:917][ 24]LogMediaUtils: Error: Cannot play file://../../../../../../Projet/Leap Test/VR_Vive/Content/Movies/sample.mov, because none of the enabled media player plug-ins support it:
+[2018.05.04-11.40.47:917][ 24]LogMediaUtils: | AndroidMedia (only available on Android, but not on Windows)
+[2018.05.04-11.40.47:918][ 24]LogMediaUtils: | AvfMedia (only available on iOS, Mac, but not on Windows)
+[2018.05.04-11.40.47:918][ 24]LogMediaUtils: | ImgMedia (URI scheme or file extension not supported)
+[2018.05.04-11.40.47:918][ 24]LogMediaUtils: | MfMedia (only available on XboxOne, but not on Windows)
+[2018.05.04-11.40.47:918][ 24]LogMediaUtils: | WmfMedia (URI scheme or file extension not supported)
+[2018.05.04-11.40.48:409][ 68]LogMediaUtils: Error: Cannot play file://../../../../../../Projet/Leap Test/VR_Vive/Content/Movies/sample.mp4, because none of the enabled media player plug-ins support it:
+[2018.05.04-11.40.48:409][ 68]LogMediaUtils: | AndroidMedia (only available on Android, but not on Windows)
+[2018.05.04-11.40.48:409][ 68]LogMediaUtils: | AvfMedia (only available on iOS, Mac, but not on Windows)
+[2018.05.04-11.40.48:409][ 68]LogMediaUtils: | ImgMedia (URI scheme or file extension not supported)
+[2018.05.04-11.40.48:409][ 68]LogMediaUtils: | MfMedia (only available on XboxOne, but not on Windows)
+[2018.05.04-11.40.48:409][ 68]LogMediaUtils: | WmfMedia (URI scheme or file extension not supported)
+[2018.05.04-11.40.50:286][262]LogMediaUtils: Error: Cannot play file://../../../../../../Projet/Leap Test/VR_Vive/Content/Movies/sample.wmv, because none of the enabled media player plug-ins support it:
+[2018.05.04-11.40.50:286][262]LogMediaUtils: | AndroidMedia (only available on Android, but not on Windows)
+[2018.05.04-11.40.50:286][262]LogMediaUtils: | AvfMedia (only available on iOS, Mac, but not on Windows)
+[2018.05.04-11.40.50:287][262]LogMediaUtils: | ImgMedia (URI scheme or file extension not supported)
+[2018.05.04-11.40.50:287][262]LogMediaUtils: | MfMedia (only available on XboxOne, but not on Windows)
+[2018.05.04-11.40.50:287][262]LogMediaUtils: | WmfMedia (URI scheme or file extension not supported)
+[2018.05.04-11.40.51:532][389]LogMediaUtils: Error: Cannot play file://../../../../../../Projet/Leap Test/VR_Vive/Content/Movies/SampleVideo_1280x720_1mb.mp4, because none of the enabled media player plug-ins support it:
+[2018.05.04-11.40.51:532][389]LogMediaUtils: | AndroidMedia (only available on Android, but not on Windows)
+[2018.05.04-11.40.51:532][389]LogMediaUtils: | AvfMedia (only available on iOS, Mac, but not on Windows)
+[2018.05.04-11.40.51:532][389]LogMediaUtils: | ImgMedia (URI scheme or file extension not supported)
+[2018.05.04-11.40.51:532][389]LogMediaUtils: | MfMedia (only available on XboxOne, but not on Windows)
+[2018.05.04-11.40.51:532][389]LogMediaUtils: | WmfMedia (URI scheme or file extension not supported)
+[2018.05.04-11.52.40:375][297]LogSlate: Window 'Plugins' being destroyed
+[2018.05.04-11.52.40:378][297]LogSlate: Window 'Plugins' being destroyed
+[2018.05.04-11.52.40:401][297]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2018.05.04-11.52.41:867][472]LogMediaUtils: Error: Cannot play file://../../../../../../Projet/Leap Test/VR_Vive/Content/Movies/sample.mp4, because none of the enabled media player plug-ins support it:
+[2018.05.04-11.52.41:867][472]LogMediaUtils: | AndroidMedia (only available on Android, but not on Windows)
+[2018.05.04-11.52.41:867][472]LogMediaUtils: | AvfMedia (only available on iOS, Mac, but not on Windows)
+[2018.05.04-11.52.41:867][472]LogMediaUtils: | ImgMedia (URI scheme or file extension not supported)
+[2018.05.04-11.52.41:868][472]LogMediaUtils: | MfMedia (only available on XboxOne, but not on Windows)
+[2018.05.04-11.52.41:868][472]LogMediaUtils: | WmfMedia (URI scheme or file extension not supported)
+[2018.05.04-11.52.42:739][571]LogMediaUtils: Error: Cannot play file://../../../../../../Projet/Leap Test/VR_Vive/Content/Movies/sample.mov, because none of the enabled media player plug-ins support it:
+[2018.05.04-11.52.42:740][571]LogMediaUtils: | AndroidMedia (only available on Android, but not on Windows)
+[2018.05.04-11.52.42:740][571]LogMediaUtils: | AvfMedia (only available on iOS, Mac, but not on Windows)
+[2018.05.04-11.52.42:740][571]LogMediaUtils: | ImgMedia (URI scheme or file extension not supported)
+[2018.05.04-11.52.42:740][571]LogMediaUtils: | MfMedia (only available on XboxOne, but not on Windows)
+[2018.05.04-11.52.42:740][571]LogMediaUtils: | WmfMedia (URI scheme or file extension not supported)
+[2018.05.04-11.53.13:604][257]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Movies/sample" FILE="../../../../../../Projet/Leap Test/VR_Vive/Content/Movies/sample.uasset" SILENT=true
+[2018.05.04-11.53.13:617][257]LogSavePackage: Save=3.89ms
+[2018.05.04-11.53.13:618][257]LogSavePackage: Moving '../../../../../../Projet/Leap Test/VR_Vive/Saved/sample0C10EB4344D9D431006A9A9E36AD3DD9.tmp' to '../../../../../../Projet/Leap Test/VR_Vive/Content/Movies/sample.uasset'
+[2018.05.04-11.53.13:621][257]LogSavePackage: Display: Finished SavePackage ../../../../../../Projet/Leap Test/VR_Vive/Content/Movies/sample.uasset
+[2018.05.04-11.53.14:750][391]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Movies/sample" FILE="../../../../../../Projet/Leap Test/VR_Vive/Content/Movies/sample.uasset" SILENT=true
+[2018.05.04-11.53.14:757][391]LogSavePackage: Save=3.30ms
+[2018.05.04-11.53.14:757][391]LogSavePackage: Moving '../../../../../../Projet/Leap Test/VR_Vive/Saved/sampleC7753A0A4A1387FEF2651C886795F89D.tmp' to '../../../../../../Projet/Leap Test/VR_Vive/Content/Movies/sample.uasset'
+[2018.05.04-11.53.14:757][391]LogSavePackage: Display: Finished SavePackage ../../../../../../Projet/Leap Test/VR_Vive/Content/Movies/sample.uasset
+[2018.05.04-11.55.02:912][150]LogSlate: Window 'sample_0 - Generic Asset Editor' being destroyed
+[2018.05.04-11.55.02:915][150]LogSlate: Window 'sample_0 - Generic Asset Editor' being destroyed
+[2018.05.04-11.55.06:930][453]LogSlate: Window 'Delete Assets' being destroyed
+[2018.05.04-11.55.09:082][568]LogSlate: Window 'Delete Assets' being destroyed
+[2018.05.04-11.55.10:678][666]LogSlate: Window 'Delete Assets' being destroyed
+[2018.05.04-11.55.29:714][582]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Movies/media1" FILE="../../../../../../Projet/Leap Test/VR_Vive/Content/Movies/media1.uasset" SILENT=true
+[2018.05.04-11.55.29:720][582]LogSavePackage: Save=3.71ms
+[2018.05.04-11.55.29:720][582]LogSavePackage: Moving '../../../../../../Projet/Leap Test/VR_Vive/Saved/media1B12760954C29E198AF7C3096CCD19B4D.tmp' to '../../../../../../Projet/Leap Test/VR_Vive/Content/Movies/media1.uasset'
+[2018.05.04-11.55.29:722][582]LogSavePackage: Display: Finished SavePackage ../../../../../../Projet/Leap Test/VR_Vive/Content/Movies/media1.uasset
+[2018.05.04-11.55.32:366][899]LogSlate: Window 'media1 - Generic Asset Editor' being destroyed
+[2018.05.04-11.55.32:368][899]LogSlate: Window 'media1 - Generic Asset Editor' being destroyed
+[2018.05.04-11.55.33:803][ 67]LogMaterial: Missing cached shader map for material Material_1, compiling. 
+[2018.05.04-11.55.33:829][ 67]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.05.04-11.55.33:829][ 67]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.05.04-11.55.33:842][ 67]LogContentBrowser: Verbose: The majority of assets in the view are of type: FileMediaSource
+[2018.05.04-11.55.35:182][217]LogMediaUtils: Error: Failed to create desired player WmfMedia for file://../../../../../../Projet/Leap Test/VR_Vive/Content/Movies/TextInMotion-Sample-576p.mp4
+[2018.05.04-11.56.12:417][220]LogMediaUtils: Error: Failed to create desired player WmfMedia for file://../../../../../../Projet/Leap Test/VR_Vive/Content/Movies/TextInMotion-Sample-576p.mp4
+[2018.05.04-11.57.04:313][380]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Movies/media1" FILE="../../../../../../Projet/Leap Test/VR_Vive/Content/Movies/media1.uasset" SILENT=true
+[2018.05.04-11.57.04:321][380]LogSavePackage: Save=3.17ms
+[2018.05.04-11.57.04:321][380]LogSavePackage: Moving '../../../../../../Projet/Leap Test/VR_Vive/Saved/media1E3AC60DC4B4D34A951B10FBC1118137F.tmp' to '../../../../../../Projet/Leap Test/VR_Vive/Content/Movies/media1.uasset'
+[2018.05.04-11.57.04:323][380]LogSavePackage: Display: Finished SavePackage ../../../../../../Projet/Leap Test/VR_Vive/Content/Movies/media1.uasset
+[2018.05.04-11.57.07:102][711]LogMediaUtils: Error: Failed to create desired player WmfMedia for file://../../../../../../Projet/Leap Test/VR_Vive/Content/Movies/TextInMotion-Sample-1080p.mp4
+[2018.05.04-11.57.16:607][844]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Movies/media1" FILE="../../../../../../Projet/Leap Test/VR_Vive/Content/Movies/media1.uasset" SILENT=true
+[2018.05.04-11.57.16:614][844]LogSavePackage: Save=3.28ms
+[2018.05.04-11.57.16:614][844]LogSavePackage: Moving '../../../../../../Projet/Leap Test/VR_Vive/Saved/media1E382751C42BCC6B8F8ACC982D8A94CAB.tmp' to '../../../../../../Projet/Leap Test/VR_Vive/Content/Movies/media1.uasset'
+[2018.05.04-11.57.16:616][844]LogSavePackage: Display: Finished SavePackage ../../../../../../Projet/Leap Test/VR_Vive/Content/Movies/media1.uasset
+[2018.05.04-11.57.19:466][183]LogMediaUtils: Error: Cannot play file://../../../../../../Projet/Leap Test/VR_Vive/Content/Movies/TextInMotion-Sample-1080p.mp4, because none of the enabled media player plug-ins support it:
+[2018.05.04-11.57.19:466][183]LogMediaUtils: | AndroidMedia (only available on Android, but not on Windows)
+[2018.05.04-11.57.19:466][183]LogMediaUtils: | AvfMedia (only available on iOS, Mac, but not on Windows)
+[2018.05.04-11.57.19:466][183]LogMediaUtils: | ImgMedia (URI scheme or file extension not supported)
+[2018.05.04-11.57.19:467][183]LogMediaUtils: | MfMedia (only available on XboxOne, but not on Windows)
+[2018.05.04-11.57.19:467][183]LogMediaUtils: | WmfMedia (URI scheme or file extension not supported)
+[2018.05.04-11.58.25:808][722]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/Map1' took 0.008
+[2018.05.04-11.58.25:810][722]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Movies/media1] ([1] browsable assets)...
+[2018.05.04-11.58.25:810][722]OBJ SavePackage: Finished generating thumbnails for package [/Game/Movies/media1]
+[2018.05.04-11.58.25:810][722]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Movies/media1" FILE="../../../../../../Projet/Leap Test/VR_Vive/Saved/Autosaves/Game/Movies/media1_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.05.04-11.58.25:818][722]LogSavePackage: Save=3.49ms
+[2018.05.04-11.58.25:818][722]LogSavePackage: Moving '../../../../../../Projet/Leap Test/VR_Vive/Saved/media1_Auto1004D23D84813E4F109181496749869C0.tmp' to '../../../../../../Projet/Leap Test/VR_Vive/Saved/Autosaves/Game/Movies/media1_Auto1.uasset'
+[2018.05.04-11.58.25:819][722]LogSavePackage: Display: Finished SavePackage ../../../../../../Projet/Leap Test/VR_Vive/Saved/Autosaves/Game/Movies/media1_Auto1.uasset
+[2018.05.04-11.58.25:819][722]LogFileHelpers: Auto-saving content packages took 0.010
+[2018.05.04-13.00.10:182][399]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-14.47.25:562][882]LogD3D11RHI: Error: Direct3DDevice->CreateBuffer(&Desc, NULL, UniformBufferResource.GetInitReference()) failed 
+ at D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11UniformBuffer.cpp:159 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DEVICE_REMOVED
+[2018.05.04-14.47.25:563][882]LogRHI: Error: [Aftermath] Status: Timeout
+[2018.05.04-14.47.25:563][882]LogRHI: Error: [Aftermath] GPU Stack Dump
+[2018.05.04-14.47.25:563][882]LogRHI: Error: [Aftermath] 0: FRAME
+[2018.05.04-14.47.25:563][882]LogRHI: Error: [Aftermath] GPU Stack Dump
+[2018.05.04-14.47.25:563][882]LogWindows: Windows GetLastError: L’opération a réussi. (0)
