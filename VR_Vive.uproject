@@ -18,9 +18,8 @@
 		}
 	],
 	"TargetPlatforms": [
-		"Android",
 		"AllDesktop",
-		"WindowsNoEditor",
-		"IOS"
+		"IOS",
+		"WindowsNoEditor"
 	]
 }
